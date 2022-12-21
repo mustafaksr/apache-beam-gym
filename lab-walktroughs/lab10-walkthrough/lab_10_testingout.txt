@@ -1,0 +1,7 @@
+test_late_data_behavior (__main__.TaxiLateDataTest) ... ok
+test_windowing_behavior (__main__.TaxiWindowingTest) ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 2.022s
+
+OK

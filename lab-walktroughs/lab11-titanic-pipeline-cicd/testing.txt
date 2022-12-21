@@ -1,0 +1,9 @@
+test_mult_units (__main__.AgeFareMultPclassTest) ... ok
+test_compute_statistics (__main__.ComputeStatsTest) ... ok
+test_convert_to_csv (__main__.ConvertToTitanicRecordTest) ... ok
+test_titanic_stats_transform (__main__.TitanicStatsTransformTest) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 3.387s
+
+OK
