@@ -1,0 +1,891 @@
+1,0,3,Braund, Mr. Owen Harris,male,22,1,0,A/5 21171,7.25,,S,Mr.,Braund,66.0,2,Young Adult,0.0,0,Southampton,23,7.25,
+2,1,1,Cumings, Mrs. John Bradley (Florence Briggs Thayer),female,38,1,0,PC 17599,71.2833,C85,C,Mrs.,Cumings,38.0,2,Adult,0.0,0,Cherbourg,51,71.2833,C
+3,1,3,Heikkinen, Miss. Laina,female,26,0,0,STON/O2. 3101282,7.925,,S,Miss.,Heikkinen,78.0,1,Young Adult,0.0,1,Southampton,22,7.925,
+4,1,1,Futrelle, Mrs. Jacques Heath (Lily May Peel),female,35,1,0,113803,53.1,C123,S,Mrs.,Futrelle,35.0,2,Adult,2143.1822705871427,0,Southampton,44,53.1,C
+5,0,3,Allen, Mr. William Henry,male,35,0,0,373450,8.05,,S,Mr.,Allen,105.0,1,Adult,46391.246718948176,1,Southampton,24,8.05,
+6,0,3,Moran, Mr. James,male,,0,0,330877,8.4583,,Q,Mr.,Moran,,1,,39118.57096748642,1,Queenstown,16,8.4583,
+7,0,1,McCarthy, Mr. Timothy J,male,54,0,0,17463,51.8625,E46,S,Mr.,McCarthy,54.0,1,None,336.7172163476083,1,Southampton,23,51.8625,E
+8,0,3,Palsson, Master. Gosta Leonard,male,2,3,1,349909,21.075,,S,Master.,Palsson,6.0,5,Child,16603.028895359956,0,Southampton,30,21.075,
+9,1,3,Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg),female,27,0,2,347742,11.1333,,S,Mrs.,Johnson,81.0,3,Young Adult,31234.376838514334,0,Southampton,49,11.1333,
+10,1,2,Nasser, Mrs. Nicholas (Adele Achem),female,14,1,0,237736,30.0708,,C,Mrs.,Nasser,28.0,2,Child,7905.872838144367,0,Cherbourg,35,30.0708,
+11,1,3,Sandstrom, Miss. Marguerite Rut,female,4,1,1,PP 9549,16.7,G6,S,Miss.,Sandstrom,12.0,3,Child,0.0,0,Southampton,31,16.7,G
+12,1,1,Bonnell, Miss. Elizabeth,female,58,0,0,113783,26.55,C103,S,Miss.,Bonnell,58.0,1,None,4285.610438564807,1,Southampton,24,26.55,C
+13,0,3,Saundercock, Mr. William Henry,male,20,0,0,A/5. 2151,8.05,,S,Mr.,Saundercock,60.0,1,Young Adult,0.0,1,Southampton,30,8.05,
+14,0,3,Andersson, Mr. Anders Johan,male,39,1,5,347082,31.275,,S,Mr.,Andersson,117.0,7,Adult,11097.742254918545,0,Southampton,27,31.275,
+15,0,3,Vestrom, Miss. Hulda Amanda Adolfina,female,14,0,0,350406,7.8542,,S,Miss.,Vestrom,42.0,1,Child,44613.780380203745,1,Southampton,36,7.8542,
+16,1,2,Hewlett, Mrs. (Mary D Kingcome) ,female,55,0,0,248706,16.0,,S,Mrs.,Hewlett,110.0,1,None,15544.115284927948,1,Southampton,32,16.0,
+17,0,3,Rice, Master. Eugene,male,2,4,1,382652,29.125,,Q,Master.,Rice,6.0,6,Child,13138.2615834295,0,Queenstown,20,29.125,
+18,1,2,Williams, Mr. Charles Eugene,male,,0,0,244373,13.0,,S,Mr.,Williams,,1,,18797.908616993373,1,Southampton,28,13.0,
+19,0,3,Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele),female,31,1,0,345763,18.0,,S,Mrs.,Vander Planke,93.0,2,Young Adult,19209.044883863953,0,Southampton,55,18.0,
+20,1,3,Masselmani, Mrs. Fatima,female,,0,0,2649,7.225,,C,Mrs.,Masselmani,,1,,366.64309115143095,1,Cherbourg,23,7.225,
+21,0,2,Fynney, Mr. Joseph J,male,35,0,0,239865,26.0,,S,Mr.,Fynney,70.0,1,Adult,9225.573374779471,1,Southampton,20,26.0,
+22,1,2,Beesley, Mr. Lawrence,male,34,0,0,248698,13.0,D56,S,Mr.,Beesley,68.0,1,Young Adult,19130.60066876872,1,Southampton,21,13.0,D
+23,1,3,McGowan, Miss. Anna "Annie",female,15,0,0,330923,8.0292,,Q,Miss.,McGowan,45.0,1,Child,41214.88913604203,1,Queenstown,27,8.0292,
+24,1,1,Sloper, Mr. William Thompson,male,28,0,0,113788,35.5,A6,S,Mr.,Sloper,28.0,1,Young Adult,3205.294871747923,1,Southampton,28,35.5,A
+25,0,3,Palsson, Miss. Torborg Danira,female,8,3,1,349909,21.075,,S,Miss.,Palsson,24.0,5,Child,16603.028895359956,0,Southampton,29,21.075,
+26,1,3,Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson),female,38,1,5,347077,31.3875,,S,Mrs.,Asplund,114.0,7,Adult,11057.806114597814,0,Southampton,57,31.3875,
+27,0,3,Emir, Mr. Farred Chehab,male,,0,0,2631,7.225,,C,Mr.,Emir,,1,,364.1517451186919,1,Cherbourg,23,7.225,
+28,0,1,Fortune, Mr. Charles Alexander,male,19,3,2,19950,263.0,C23 C25 C27,S,Mr.,Fortune,19.0,6,Young Adult,75.85551042374486,0,Southampton,30,263.0,C
+29,1,3,O'Dwyer, Miss. Ellen "Nellie",female,,0,0,330959,7.8792,,Q,Miss.,O'Dwyer,,1,,42004.08416579835,1,Queenstown,29,7.8792,
+30,0,3,Todoroff, Mr. Lalio,male,,0,0,349216,7.8958,,S,Mr.,Todoroff,,1,,44228.01460521467,1,Southampton,19,7.8958,
+31,0,1,Uruchurtu, Don. Manuel E,male,40,0,0,PC 17601,27.7208,,C,Don.,Uruchurtu,40.0,1,Adult,0.0,1,Cherbourg,24,27.7208,
+32,1,1,Spencer, Mrs. William Augustus (Marie Eugenie),female,,1,0,PC 17569,146.5208,B78,C,Mrs.,Spencer,,2,,0.0,0,Cherbourg,46,146.5208,B
+33,1,3,Glynn, Miss. Mary Agatha,female,,0,0,335677,7.75,,Q,Miss.,Glynn,,1,,43313.10540244464,1,Queenstown,24,7.75,
+34,0,2,Wheadon, Mr. Edward H,male,66,0,0,C.A. 24579,10.5,,S,Mr.,Wheadon,132.0,1,None,0.0,1,Southampton,21,10.5,
+35,0,1,Meyer, Mr. Edgar Joseph,male,28,1,0,PC 17604,82.1708,,C,Mr.,Meyer,28.0,2,Young Adult,0.0,0,Cherbourg,23,82.1708,
+36,0,1,Holverson, Mr. Alexander Oskar,male,42,1,0,113789,52.0,,S,Mr.,Holverson,42.0,2,Adult,2188.2495791827732,0,Southampton,30,52.0,
+37,1,3,Mamee, Mr. Hanna,male,,0,0,2677,7.2292,,C,Mr.,Mamee,,1,,370.3032558191006,1,Cherbourg,16,7.2292,
+38,0,3,Cann, Mr. Ernest Charles,male,21,0,0,A./5. 2152,8.05,,S,Mr.,Cann,63.0,1,Young Adult,0.0,1,Southampton,24,8.05,
+39,0,3,Vander Planke, Miss. Augusta Maria,female,18,2,0,345764,18.0,,S,Miss.,Vander Planke,54.0,3,Young Adult,19209.100439388647,0,Southampton,34,18.0,
+40,1,3,Nicola-Yarred, Miss. Jamila,female,14,1,0,2651,11.2417,,C,Miss.,Nicola-Yarred,42.0,2,Child,235.81821626780982,0,Cherbourg,27,11.2417,
+41,0,3,Ahlin, Mrs. Johan (Johanna Persdotter Larsson),female,40,1,0,7546,9.475,,S,Mrs.,Ahlin,120.0,2,Adult,796.4107689596107,0,Southampton,46,9.475,
+42,0,2,Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott),female,27,1,0,11668,21.0,,S,Mrs.,Turpin,54.0,2,Young Adult,555.6187830386748,0,Southampton,56,21.0,
+43,0,3,Kraeff, Mr. Theodor,male,,0,0,349253,7.8958,,C,Mr.,Kraeff,,1,,44232.7006348937,1,Cherbourg,19,7.8958,
+44,1,2,Laroche, Miss. Simonne Marie Anne Andree,female,3,1,2,SC/Paris 2123,41.5792,,C,Miss.,Laroche,6.0,4,Child,0.0,0,Cherbourg,40,41.5792,
+45,1,3,Devaney, Miss. Margaret Delia,female,19,0,0,330958,7.8792,,Q,Miss.,Devaney,57.0,1,Young Adult,42003.95724952121,1,Queenstown,29,7.8792,
+46,0,3,Rogers, Mr. William John,male,,0,0,S.C./A.4. 23567,8.05,,S,Mr.,Rogers,,1,,0.0,1,Southampton,24,8.05,
+47,0,3,Lennon, Mr. Denis,male,,1,0,370371,15.5,,Q,Mr.,Lennon,,2,,23894.8878097498,0,Queenstown,17,15.5,
+48,1,3,O'Driscoll, Miss. Bridget,female,,0,0,14311,7.75,,Q,Miss.,O'Driscoll,,1,,1846.5782624796614,1,Queenstown,25,7.75,
+49,0,3,Samaan, Mr. Youssef,male,,2,0,2662,21.6792,,C,Mr.,Samaan,,3,,122.79045223511373,0,Cherbourg,19,21.6792,
+50,0,3,Arnold-Franchi, Mrs. Josef (Josefine Franchi),female,18,1,0,349237,17.8,,S,Mrs.,Arnold-Franchi,54.0,2,Young Adult,19620.045157278,0,Southampton,45,17.8,
+51,0,3,Panula, Master. Juha Niilo,male,7,4,1,3101295,39.6875,,S,Master.,Panula,21.0,6,Child,78142.84645219616,0,Southampton,26,39.6875,
+52,0,3,Nosworthy, Mr. Richard Cater,male,21,0,0,A/4. 39886,7.8,,S,Mr.,Nosworthy,63.0,1,Young Adult,0.0,1,Southampton,28,7.8,
+53,1,1,Harper, Mrs. Henry Sleeper (Myna Haxtun),female,49,1,0,PC 17572,76.7292,D33,C,Mrs.,Harper,49.0,2,Adult,0.0,0,Cherbourg,40,76.7292,D
+54,1,2,Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson),female,29,1,0,2926,26.0,,S,Mrs.,Faunthorpe,58.0,2,Young Adult,112.53841825445451,0,Southampton,50,26.0,
+55,0,1,Ostby, Mr. Engelhart Cornelius,male,65,0,1,113509,61.9792,B30,C,Mr.,Ostby,65.0,2,None,1831.4044338416059,0,Cherbourg,30,61.9792,B
+56,1,1,Woolner, Mr. Hugh,male,,0,0,19947,35.5,C52,S,Mr.,Woolner,,1,,561.8871656655871,1,Southampton,17,35.5,C
+57,1,2,Rugg, Miss. Emily,female,21,0,0,C.A. 31026,10.5,,S,Miss.,Rugg,42.0,1,Young Adult,0.0,1,Southampton,17,10.5,
+58,0,3,Novel, Mr. Mansouer,male,28.5,0,0,2697,7.2292,,C,Mr.,Novel,85.5,1,Young Adult,373.06980984090933,1,Cherbourg,19,7.2292,
+59,1,2,West, Miss. Constance Mirium,female,5,1,2,C.A. 34651,27.75,,S,Miss.,West,10.0,4,Child,0.0,0,Southampton,28,27.75,
+60,0,3,Goodwin, Master. William Frederick,male,11,5,2,CA 2144,46.9,,S,Master.,Goodwin,33.0,8,Child,0.0,0,Southampton,34,46.9,
+61,0,3,Sirayanian, Mr. Orsen,male,22,0,0,2669,7.2292,,C,Mr.,Sirayanian,66.0,1,Young Adult,369.1966342103771,1,Cherbourg,21,7.2292,
+62,1,1,Icard, Miss. Amelie,female,38,0,0,113572,80.0,B28,,Miss.,Icard,38.0,1,Adult,1419.6498225437722,1,,19,80.0,B
+63,0,1,Harris, Mr. Henry Birkhardt,male,45,1,0,36973,83.475,C83,S,Mr.,Harris,45.0,2,Adult,442.92297778700475,0,Southampton,27,83.475,C
+64,0,3,Skoog, Master. Harald,male,4,3,2,347088,27.9,,S,Master.,Skoog,12.0,6,Child,12440.425648592958,0,Southampton,21,27.9,
+65,0,1,Stewart, Mr. Albert A,male,,0,0,PC 17605,27.7208,,C,Mr.,Stewart,,1,,0.0,1,Cherbourg,21,27.7208,
+66,1,3,Moubarek, Master. Gerios,male,,1,1,2661,15.2458,,C,Master.,Moubarek,,3,,174.53975879274373,0,Cherbourg,24,15.2458,
+67,1,2,Nye, Mrs. (Elizabeth Ramell),female,29,0,0,C.A. 29395,10.5,F33,S,Mrs.,Nye,58.0,1,Young Adult,0.0,1,Southampton,28,10.5,F
+68,0,3,Crease, Mr. Ernest James,male,19,0,0,S.P. 3464,8.1583,,S,Mr.,Crease,57.0,1,Young Adult,0.0,1,Southampton,24,8.1583,
+69,1,3,Andersson, Miss. Erna Alexandra,female,17,4,2,3101281,7.925,,S,Miss.,Andersson,51.0,7,Child,391328.3390178688,0,Southampton,31,7.925,
+70,0,3,Kink, Mr. Vincenz,male,26,2,0,315151,8.6625,,S,Mr.,Kink,78.0,3,Young Adult,36381.02582276962,0,Southampton,17,8.6625,
+71,0,2,Jenkin, Mr. Stephen Curnow,male,32,0,0,C.A. 33111,10.5,,S,Mr.,Jenkin,64.0,1,Young Adult,0.0,1,Southampton,26,10.5,
+72,0,3,Goodwin, Miss. Lillian Amy,female,16,5,2,CA 2144,46.9,,S,Miss.,Goodwin,48.0,8,Child,0.0,0,Southampton,26,46.9,
+73,0,2,Hood, Mr. Ambrose Jr,male,21,0,0,S.O.C. 14879,73.5,,S,Mr.,Hood,42.0,1,Young Adult,0.0,1,Southampton,20,73.5,
+74,0,3,Chronopoulos, Mr. Apostolos,male,26,1,0,2680,14.4542,,C,Mr.,Chronopoulos,78.0,2,Young Adult,185.4131080148967,0,Cherbourg,27,14.4542,
+75,1,3,Bing, Mr. Lee,male,32,0,0,1601,56.4958,,S,Mr.,Bing,96.0,1,Young Adult,28.338384740390477,1,Southampton,13,56.4958,
+76,0,3,Moen, Mr. Sigurd Hansen,male,25,0,0,348123,7.65,F G73,S,Mr.,Moen,75.0,1,Young Adult,45506.215024555524,1,Southampton,23,7.65,F
+77,0,3,Staneff, Mr. Ivan,male,,0,0,349208,7.8958,,S,Mr.,Staneff,,1,,44227.00140960839,1,Southampton,17,7.8958,
+78,0,3,Moutal, Mr. Rahamin Haim,male,,0,0,374746,8.05,,S,Mr.,Moutal,,1,,46552.24030777601,1,Southampton,24,8.05,
+79,1,2,Caldwell, Master. Alden Gates,male,0.83,0,2,248738,29.0,,S,Master.,Caldwell,1.66,3,Child,8577.169456148464,0,Southampton,29,29.0,
+80,1,3,Dowdell, Miss. Elizabeth,female,30,0,0,364516,12.475,,S,Miss.,Dowdell,90.0,1,Young Adult,29219.69601627574,1,Southampton,24,12.475,
+81,0,3,Waelens, Mr. Achille,male,22,0,0,345767,9.0,,S,Mr.,Waelens,66.0,1,Young Adult,38418.512868319034,1,Southampton,20,9.0,
+82,1,3,Sheerlinck, Mr. Jan Baptist,male,29,0,0,345779,9.5,,S,Mr.,Sheerlinck,87.0,1,Young Adult,36397.75116026194,1,Southampton,27,9.5,
+83,1,3,McDermott, Miss. Brigdet Delia,female,,0,0,330932,7.7875,,Q,Miss.,McDermott,,1,,42495.22633036748,1,Queenstown,30,7.7875,
+84,0,1,Carrau, Mr. Francisco M,male,28,0,0,113059,47.1,,S,Mr.,Carrau,28.0,1,Young Adult,2400.402887387922,1,Southampton,23,47.1,
+85,1,2,Ilett, Miss. Bertha,female,17,0,0,SO/C 14885,10.5,,S,Miss.,Ilett,34.0,1,Child,0.0,1,Southampton,19,10.5,
+86,1,3,Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson),female,33,3,0,3101278,15.85,,S,Mrs.,Backstrom,99.0,4,Young Adult,195664.1036819535,0,Southampton,55,15.85,
+87,0,3,Ford, Mr. William Neal,male,16,1,3,W./C. 6608,34.375,,S,Mr.,Ford,48.0,5,Child,0.0,0,Southampton,22,34.375,
+88,0,3,Slocovski, Mr. Selman Francis,male,,0,0,SOTON/OQ 392086,8.05,,S,Mr.,Slocovski,,1,,0.0,1,Southampton,29,8.05,
+89,1,1,Fortune, Miss. Mabel Helen,female,23,3,2,19950,263.0,C23 C25 C27,S,Miss.,Fortune,23.0,6,Young Adult,75.85551042374486,0,Southampton,26,263.0,C
+90,0,3,Celotti, Mr. Francesco,male,24,0,0,343275,8.05,,S,Mr.,Celotti,72.0,1,Young Adult,42642.8041704296,1,Southampton,22,8.05,
+91,0,3,Christmann, Mr. Emil,male,29,0,0,343276,8.05,,S,Mr.,Christmann,87.0,1,Young Adult,42642.928393877766,1,Southampton,20,8.05,
+92,0,3,Andreasson, Mr. Paul Edvin,male,20,0,0,347466,7.8542,,S,Mr.,Andreasson,60.0,1,Young Adult,44239.45883799899,1,Southampton,26,7.8542,
+93,0,1,Chaffee, Mr. Herbert Fuller,male,46,1,0,W.E.P. 5734,61.175,E31,S,Mr.,Chaffee,46.0,2,Adult,0.0,0,Southampton,27,61.175,E
+94,0,3,Dean, Mr. Bertram Frank,male,26,1,2,C.A. 2315,20.575,,S,Mr.,Dean,78.0,4,Young Adult,0.0,0,Southampton,23,20.575,
+95,0,3,Coxon, Mr. Daniel,male,59,0,0,364500,7.25,,S,Mr.,Coxon,177.0,1,None,50275.79272304452,1,Southampton,17,7.25,
+96,0,3,Shorney, Mr. Charles Joseph,male,,0,0,374910,8.05,,S,Mr.,Shorney,,1,,46572.612953275835,1,Southampton,27,8.05,
+97,0,1,Goldschmidt, Mr. George B,male,71,0,0,PC 17754,34.6542,A5,C,Mr.,Goldschmidt,71.0,1,None,0.0,1,Cherbourg,25,34.6542,A
+98,1,1,Greenfield, Mr. William Bertram,male,23,0,1,PC 17759,63.3583,D10 D12,C,Mr.,Greenfield,23.0,2,Young Adult,0.0,0,Cherbourg,31,63.3583,D
+99,1,2,Doling, Mrs. John T (Ada Julia Bone),female,34,0,1,231919,23.0,,S,Mrs.,Doling,68.0,2,Young Adult,10083.430398508523,0,Southampton,36,23.0,
+100,0,2,Kantor, Mr. Sinai,male,34,1,0,244367,26.0,,S,Mr.,Kantor,68.0,2,Young Adult,9398.72715433571,0,Southampton,17,26.0,
+101,0,3,Petranec, Miss. Matilda,female,28,0,0,349245,7.8958,,S,Miss.,Petranec,84.0,1,Young Adult,44231.687439287416,1,Southampton,23,7.8958,
+102,0,3,Petroff, Mr. Pastcho ("Pentcho"),male,,0,0,349215,7.8958,,S,Mr.,Petroff,,1,,44227.88795576388,1,Southampton,32,7.8958,
+103,0,1,White, Mr. Richard Frasar,male,21,0,1,35281,77.2875,D26,S,Mr.,White,21.0,2,Young Adult,456.49031777579586,0,Southampton,25,77.2875,D
+104,0,3,Johansson, Mr. Gustaf Joel,male,33,0,0,7540,8.6542,,S,Mr.,Johansson,99.0,1,Young Adult,871.2522575717484,1,Southampton,26,8.6542,
+105,0,3,Gustafsson, Mr. Anders Vilhelm,male,37,2,0,3101276,7.925,,S,Mr.,Gustafsson,111.0,3,Adult,391327.7081038384,0,Southampton,30,7.925,
+106,0,3,Mionoff, Mr. Stoytcho,male,28,0,0,349207,7.8958,,S,Mr.,Mionoff,84.0,1,Young Adult,44226.8747601576,1,Southampton,21,7.8958,
+107,1,3,Salkjelsvik, Miss. Anna Kristine,female,21,0,0,343120,7.65,,S,Miss.,Salkjelsvik,63.0,1,Young Adult,44852.228951334706,1,Southampton,32,7.65,
+108,1,3,Moss, Mr. Albert Johan,male,,0,0,312991,7.775,,S,Mr.,Moss,,1,,40256.02539417956,1,Southampton,22,7.775,
+109,0,3,Rekic, Mr. Tido,male,38,0,0,349249,7.8958,,S,Mr.,Rekic,114.0,1,Adult,44232.19403709056,1,Southampton,15,7.8958,
+110,1,3,Moran, Miss. Bertha,female,,1,0,371110,24.15,,Q,Miss.,Moran,,2,,15366.867342912074,0,Queenstown,19,24.15,
+111,0,1,Porter, Mr. Walter Chamberlain,male,47,0,0,110465,52.0,C110,S,Mr.,Porter,47.0,1,Adult,2124.3265145525934,1,Southampton,30,52.0,C
+112,0,3,Zabour, Miss. Hileni,female,14.5,1,0,2665,14.4542,,C,Miss.,Zabour,43.5,2,Child,184.3753480819775,0,Cherbourg,20,14.4542,
+113,0,3,Barton, Mr. David John,male,22,0,0,324669,8.05,,S,Mr.,Barton,66.0,1,Young Adult,40331.50269378547,1,Southampton,22,8.05,
+114,0,3,Jussila, Miss. Katriina,female,20,1,0,4136,9.825,,S,Miss.,Jussila,60.0,2,Young Adult,420.96649265496933,0,Southampton,23,9.825,
+115,0,3,Attalah, Miss. Malake,female,17,0,0,2627,14.4583,,C,Miss.,Attalah,51.0,1,Child,181.69481772074332,1,Cherbourg,21,14.4583,
+116,0,3,Pekoniemi, Mr. Edvard,male,21,0,0,STON/O 2. 3101294,7.925,,S,Mr.,Pekoniemi,63.0,1,Young Adult,0.0,1,Southampton,21,7.925,
+117,0,3,Connors, Mr. Patrick,male,70.5,0,0,370369,7.75,,Q,Mr.,Connors,211.5,1,None,47789.48672324294,1,Queenstown,20,7.75,
+118,0,2,Turpin, Mr. William John Robert,male,29,1,0,11668,21.0,,S,Mr.,Turpin,58.0,2,Young Adult,555.6187830386748,0,Southampton,31,21.0,
+119,0,1,Baxter, Mr. Quigg Edmond,male,24,0,1,PC 17558,247.5208,B58 B60,C,Mr.,Baxter,24.0,2,Young Adult,0.0,0,Cherbourg,24,247.5208,B
+120,0,3,Andersson, Miss. Ellis Anna Maria,female,2,4,2,347082,31.275,,S,Miss.,Andersson,6.0,7,Child,11097.742254918545,0,Southampton,33,31.275,
+121,0,2,Hickman, Mr. Stanley George,male,21,2,0,S.O.C. 14879,73.5,,S,Mr.,Hickman,42.0,3,Young Adult,0.0,0,Southampton,27,73.5,
+122,0,3,Moore, Mr. Leonard Charles,male,,0,0,A4. 54510,8.05,,S,Mr.,Moore,,1,,0.0,1,Southampton,26,8.05,
+123,0,2,Nasser, Mr. Nicholas,male,32.5,1,0,237736,30.0708,,C,Mr.,Nasser,65.0,2,Young Adult,7905.872838144367,0,Cherbourg,20,30.0708,
+124,1,2,Webber, Miss. Susan,female,32.5,0,0,27267,13.0,E101,S,Miss.,Webber,65.0,1,Young Adult,2097.459925030827,1,Southampton,19,13.0,E
+125,0,1,White, Mr. Percival Wayland,male,54,0,1,35281,77.2875,D26,S,Mr.,White,54.0,2,None,456.49031777579586,0,Southampton,27,77.2875,D
+126,1,3,Nicola-Yarred, Master. Elias,male,12,1,0,2651,11.2417,,C,Master.,Nicola-Yarred,36.0,2,Child,235.81821626780982,0,Cherbourg,28,11.2417,
+127,0,3,McMahon, Mr. Martin,male,,0,0,370372,7.75,,Q,Mr.,McMahon,,1,,47789.873819517656,1,Queenstown,19,7.75,
+128,1,3,Madsen, Mr. Fridtjof Arne,male,24,0,0,C 17369,7.1417,,S,Mr.,Madsen,72.0,1,Young Adult,0.0,1,Southampton,25,7.1417,
+129,1,3,Peter, Miss. Anna,female,,1,1,2668,22.3583,F E69,C,Miss.,Peter,,3,,119.32923373904379,0,Cherbourg,17,22.3583,F
+130,0,3,Ekstrom, Mr. Johan,male,45,0,0,347061,6.975,,S,Mr.,Ekstrom,135.0,1,Adult,49757.77812504929,1,Southampton,18,6.975,
+131,0,3,Drazenoic, Mr. Jozef,male,33,0,0,349241,7.8958,,C,Mr.,Drazenoic,99.0,1,Young Adult,44231.18084148428,1,Cherbourg,20,7.8958,
+132,0,3,Coelho, Mr. Domingos Fernandeo,male,20,0,0,SOTON/O.Q. 3101307,7.05,,S,Mr.,Coelho,60.0,1,Young Adult,0.0,1,Southampton,30,7.05,
+133,0,3,Robins, Mrs. Alexander A (Grace Charity Laury),female,47,1,0,A/5. 3337,14.5,,S,Mrs.,Robins,141.0,2,Adult,0.0,0,Southampton,46,14.5,
+134,1,2,Weisz, Mrs. Leopold (Mathilde Francoise Pede),female,29,1,0,228414,26.0,,S,Mrs.,Weisz,58.0,2,Young Adult,8785.150467249821,0,Southampton,45,26.0,
+135,0,2,Sobey, Mr. Samuel James Hayden,male,25,0,0,C.A. 29178,13.0,,S,Mr.,Sobey,50.0,1,Young Adult,0.0,1,Southampton,30,13.0,
+136,0,2,Richard, Mr. Emile,male,23,0,0,SC/PARIS 2133,15.0458,,C,Mr.,Richard,46.0,1,Young Adult,0.0,1,Cherbourg,18,15.0458,
+137,1,1,Newsom, Miss. Helen Monypeny,female,19,0,2,11752,26.2833,D47,S,Miss.,Newsom,19.0,3,Young Adult,447.12785414013683,0,Southampton,28,26.2833,D
+138,0,1,Futrelle, Mr. Jacques Heath,male,37,1,0,113803,53.1,C123,S,Mr.,Futrelle,37.0,2,Adult,2143.1822705871427,0,Southampton,27,53.1,C
+139,0,3,Osen, Mr. Olaf Elon,male,16,0,0,7534,9.2167,,S,Mr.,Osen,48.0,1,Child,817.4283448215253,1,Southampton,19,9.2167,
+140,0,1,Giglio, Mr. Victor,male,24,0,0,PC 17593,79.2,B86,C,Mr.,Giglio,24.0,1,Young Adult,0.0,1,Cherbourg,18,79.2,B
+141,0,3,Boulos, Mrs. Joseph (Sultana),female,,0,2,2678,15.2458,,C,Mrs.,Boulos,,3,,175.6548192585373,0,Cherbourg,29,15.2458,
+142,1,3,Nysten, Miss. Anna Sofia,female,22,0,0,347081,7.75,,S,Miss.,Nysten,66.0,1,Young Adult,44784.58737472597,1,Southampton,24,7.75,
+143,1,3,Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck),female,24,1,0,STON/O2. 3101279,15.85,,S,Mrs.,Hakkarainen,72.0,2,Young Adult,0.0,0,Southampton,52,15.85,
+144,0,3,Burke, Mr. Jeremiah,male,19,0,0,365222,6.75,,Q,Mr.,Burke,57.0,1,Young Adult,54106.88280461807,1,Queenstown,19,6.75,
+145,0,2,Andrew, Mr. Edgardo Samuel,male,18,0,0,231945,11.5,,S,Mr.,Andrew,36.0,1,Young Adult,20169.11289642357,1,Southampton,26,11.5,
+146,0,2,Nicholls, Mr. Joseph Charles,male,19,1,1,C.A. 33112,36.75,,S,Mr.,Nicholls,38.0,3,Young Adult,0.0,0,Southampton,28,36.75,
+147,1,3,Andersson, Mr. August Edvard ("Wennerstrom"),male,27,0,0,350043,7.7958,,S,Mr.,Andersson,81.0,1,Young Adult,44901.427818276745,1,Southampton,44,7.7958,
+148,0,3,Ford, Miss. Robina Maggie "Ruby",female,9,2,2,W./C. 6608,34.375,,S,Miss.,Ford,27.0,5,Child,0.0,0,Southampton,32,34.375,
+149,0,2,Navratil, Mr. Michel ("Louis M Hoffman"),male,36.5,0,2,230080,26.0,F2,S,Mr.,Navratil,73.0,3,Adult,8849.227365681783,0,Southampton,40,26.0,F
+150,0,2,Byles, Rev. Thomas Roussel Davids,male,42,0,0,244310,13.0,,S,Rev.,Byles,84.0,1,Adult,18793.062466875024,1,Southampton,33,13.0,
+151,0,2,Bateman, Rev. Robert James,male,51,0,0,S.O.P. 1166,12.525,,S,Rev.,Bateman,102.0,1,None,0.0,1,Southampton,26,12.525,
+152,1,1,Pears, Mrs. Thomas (Edith Wearne),female,22,1,0,113776,66.6,C2,S,Mrs.,Pears,22.0,2,Young Adult,1708.348091839626,0,Southampton,33,66.6,C
+153,0,3,Meo, Mr. Alfonzo,male,55.5,0,0,A.5. 11206,8.05,,S,Mr.,Meo,166.5,1,None,0.0,1,Southampton,16,8.05,
+154,0,3,van Billiard, Mr. Austin Blyler,male,40.5,0,2,A/5. 851,14.5,,S,Mr.,van Billiard,121.5,3,Adult,0.0,0,Southampton,31,14.5,
+155,0,3,Olsen, Mr. Ole Martin,male,,0,0,Fa 265302,7.3125,,S,Mr.,Olsen,,1,,0.0,1,Southampton,21,7.3125,
+156,0,1,Williams, Mr. Charles Duane,male,51,0,1,PC 17597,61.3792,,C,Mr.,Williams,51.0,2,None,0.0,0,Cherbourg,27,61.3792,
+157,1,3,Gilnagh, Miss. Katherine "Katie",female,16,0,0,35851,7.7333,,Q,Miss.,Gilnagh,48.0,1,Child,4635.919160100914,1,Queenstown,32,7.7333,
+158,0,3,Corn, Mr. Harry,male,30,0,0,SOTON/OQ 392090,8.05,,S,Mr.,Corn,90.0,1,Young Adult,0.0,1,Southampton,15,8.05,
+159,0,3,Smiljanic, Mr. Mile,male,,0,0,315037,8.6625,,S,Mr.,Smiljanic,,1,,36367.865664801546,1,Southampton,19,8.6625,
+160,0,3,Sage, Master. Thomas Henry,male,,8,2,CA. 2343,69.55,,S,Master.,Sage,,11,,0.0,0,Southampton,26,69.55,
+161,0,3,Cribb, Mr. John Hatfield,male,44,0,1,371362,16.1,,S,Mr.,Cribb,132.0,2,Adult,23065.948406243224,0,Southampton,24,16.1,
+162,1,2,Watt, Mrs. James (Elizabeth "Bessie" Inglis Milne),female,40,0,0,C.A. 33595,15.75,,S,Mrs.,Watt,80.0,1,Adult,0.0,1,Southampton,50,15.75,
+163,0,3,Bengtsson, Mr. John Viktor,male,26,0,0,347068,7.775,,S,Mr.,Bengtsson,78.0,1,Young Adult,44638.91364769949,1,Southampton,26,7.775,
+164,0,3,Calic, Mr. Jovo,male,17,0,0,315093,8.6625,,S,Mr.,Calic,51.0,1,Child,36374.33030380341,1,Southampton,15,8.6625,
+165,0,3,Panula, Master. Eino Viljami,male,1,4,1,3101295,39.6875,,S,Master.,Panula,3.0,6,Child,78142.84645219616,0,Southampton,28,39.6875,
+166,1,3,Goldsmith, Master. Frank John William "Frankie",male,9,0,2,363291,20.525,,S,Master.,Goldsmith,27.0,3,Child,17699.918294802294,0,Southampton,47,20.525,
+167,1,1,Chibnall, Mrs. (Edith Martha Bowerman),female,,0,1,113505,55.0,E33,S,Mrs.,Chibnall,,2,,2063.7268975042,0,Southampton,38,55.0,E
+168,0,3,Skoog, Mrs. William (Anna Bernhardina Karlsson),female,45,1,4,347088,27.9,,S,Mrs.,Skoog,135.0,6,Adult,12440.425648592958,0,Southampton,47,27.9,
+169,0,1,Baumann, Mr. John D,male,,0,0,PC 17318,25.925,,S,Mr.,Baumann,,1,,0.0,1,Southampton,19,25.925,
+170,0,3,Ling, Mr. Lee,male,28,0,0,1601,56.4958,,S,Mr.,Ling,84.0,1,Young Adult,28.338384740390477,1,Southampton,13,56.4958,
+171,0,1,Van der hoef, Mr. Wyckoff,male,61,0,0,111240,33.5,B19,S,Mr.,Van der hoef,61.0,1,None,3320.5960237026793,1,Southampton,25,33.5,B
+172,0,3,Rice, Master. Arthur,male,4,4,1,382652,29.125,,Q,Master.,Rice,12.0,6,Child,13138.2615834295,0,Queenstown,20,29.125,
+173,1,3,Johnson, Miss. Eleanor Ileen,female,1,1,1,347742,11.1333,,S,Miss.,Johnson,3.0,3,Child,31234.376838514334,0,Southampton,28,11.1333,
+174,0,3,Sivola, Mr. Antti Wilhelm,male,21,0,0,STON/O 2. 3101280,7.925,,S,Mr.,Sivola,63.0,1,Young Adult,0.0,1,Southampton,25,7.925,
+175,0,1,Smith, Mr. James Clinch,male,56,0,0,17764,30.6958,A7,C,Mr.,Smith,56.0,1,None,578.7109054949194,1,Cherbourg,23,30.6958,A
+176,0,3,Klasen, Mr. Klas Albin,male,18,1,1,350404,7.8542,,S,Mr.,Klasen,54.0,3,Young Adult,44613.52573969884,0,Southampton,22,7.8542,
+177,0,3,Lefebre, Master. Henry Forbes,male,,3,1,4133,25.4667,,S,Master.,Lefebre,,5,,162.29029976781453,0,Southampton,29,25.4667,
+178,0,1,Isham, Miss. Ann Elizabeth,female,50,0,0,PC 17595,28.7125,C49,C,Miss.,Isham,50.0,1,None,0.0,1,Cherbourg,26,28.7125,C
+179,0,2,Hale, Mr. Reginald,male,30,0,0,250653,13.0,,S,Mr.,Hale,60.0,1,Young Adult,19280.985168472947,1,Southampton,18,13.0,
+180,0,3,Leonard, Mr. Lionel,male,36,0,0,LINE,0.0,,S,Mr.,Leonard,108.0,1,Adult,0.0,1,Southampton,19,0.0,
+181,0,3,Sage, Miss. Constance Gladys,female,,8,2,CA. 2343,69.55,,S,Miss.,Sage,,11,,0.0,0,Southampton,28,69.55,
+182,0,2,Pernot, Mr. Rene,male,,0,0,SC/PARIS 2131,15.05,,C,Mr.,Pernot,,1,,0.0,1,Cherbourg,16,15.05,
+183,0,3,Asplund, Master. Clarence Gustaf Hugo,male,9,4,2,347077,31.3875,,S,Master.,Asplund,27.0,7,Child,11057.806114597814,0,Southampton,37,31.3875,
+184,1,2,Becker, Master. Richard F,male,1,2,1,230136,39.0,F4,S,Master.,Becker,2.0,4,Child,5900.921563866265,0,Southampton,25,39.0,F
+185,1,3,Kink-Heilmann, Miss. Luise Gretchen,female,4,0,2,315153,22.025,,S,Miss.,Kink-Heilmann,12.0,3,Child,14308.869780308842,0,Southampton,35,22.025,
+186,0,1,Rood, Mr. Hugh Roscoe,male,,0,0,113767,50.0,A32,S,Mr.,Rood,,1,,2275.339544932091,1,Southampton,21,50.0,A
+187,1,3,O'Brien, Mrs. Thomas (Johanna "Hannah" Godfrey),female,,1,0,370365,15.5,,Q,Mrs.,O'Brien,,2,,23894.50071322535,0,Queenstown,47,15.5,
+188,1,1,Romaine, Mr. Charles Hallace ("Mr C Rolmane"),male,45,0,0,111428,26.55,,S,Mr.,Romaine,45.0,1,Adult,4196.909907001918,1,Southampton,45,26.55,
+189,0,3,Bourke, Mr. John,male,40,1,1,364849,15.5,,Q,Mr.,Bourke,120.0,3,Adult,23538.629975077434,0,Queenstown,16,15.5,
+190,0,3,Turcin, Mr. Stjepan,male,36,0,0,349247,7.8958,,S,Mr.,Turcin,108.0,1,Adult,44231.94073818899,1,Southampton,19,7.8958,
+191,1,2,Pinsky, Mrs. (Rosa),female,32,0,0,234604,13.0,,S,Mrs.,Pinsky,64.0,1,Young Adult,18046.447656578726,1,Southampton,19,13.0,
+192,0,2,Carbines, Mr. William,male,19,0,0,28424,13.0,,S,Mr.,Carbines,38.0,1,Young Adult,2186.4598565693414,1,Southampton,21,13.0,
+193,1,3,Andersen-Jensen, Miss. Carla Christine Nielsine,female,19,1,0,350046,7.8542,,S,Miss.,Andersen-Jensen,57.0,2,Young Adult,44567.945089321525,0,Southampton,47,7.8542,
+194,1,2,Navratil, Master. Michel M,male,3,1,1,230080,26.0,F2,S,Master.,Navratil,6.0,3,Child,8849.227365681783,0,Southampton,26,26.0,F
+195,1,1,Brown, Mrs. James Joseph (Margaret Tobin),female,44,0,0,PC 17610,27.7208,B4,C,Mrs.,Brown,44.0,1,Adult,0.0,1,Cherbourg,41,27.7208,B
+196,1,1,Lurette, Miss. Elise,female,58,0,0,PC 17569,146.5208,B80,C,Miss.,Lurette,58.0,1,None,0.0,1,Cherbourg,20,146.5208,B
+197,0,3,Mernagh, Mr. Robert,male,,0,0,368703,7.75,,Q,Mr.,Mernagh,,1,,47574.51925868483,1,Queenstown,19,7.75,
+198,0,3,Olsen, Mr. Karl Siegwart Andreas,male,42,0,1,4579,8.4042,,S,Mr.,Olsen,126.0,2,Adult,544.8459760048834,0,Southampton,32,8.4042,
+199,1,3,Madigan, Miss. Margaret "Maggie",female,,0,0,370370,7.75,,Q,Miss.,Madigan,,1,,47789.61575533451,1,Queenstown,32,7.75,
+200,0,2,Yrois, Miss. Henriette ("Mrs Harbeck"),female,24,0,0,248747,13.0,,S,Miss.,Yrois,48.0,1,Young Adult,19134.369896638542,1,Southampton,38,13.0,
+201,0,3,Vande Walle, Mr. Nestor Cyriel,male,28,0,0,345770,9.5,,S,Mr.,Vande Walle,84.0,1,Young Adult,36396.803792838116,1,Southampton,30,9.5,
+202,0,3,Sage, Mr. Frederick,male,,8,2,CA. 2343,69.55,,S,Mr.,Sage,,11,,0.0,0,Southampton,19,69.55,
+203,0,3,Johanson, Mr. Jakob Alfred,male,34,0,0,3101264,6.4958,,S,Mr.,Johanson,102.0,1,Young Adult,477425.29415115283,1,Southampton,26,6.4958,
+204,0,3,Youseff, Mr. Gerious,male,45.5,0,0,2628,7.225,,C,Mr.,Youseff,136.5,1,Adult,363.7365207799021,1,Cherbourg,20,7.225,
+205,1,3,Cohen, Mr. Gurshon "Gus",male,18,0,0,A/5 3540,8.05,,S,Mr.,Cohen,54.0,1,Young Adult,0.0,1,Southampton,24,8.05,
+206,0,3,Strom, Miss. Telma Matilda,female,2,0,1,347054,10.4625,G6,S,Miss.,Strom,6.0,2,Child,33171.19888057455,0,Southampton,26,10.4625,G
+207,0,3,Backstrom, Mr. Karl Alfred,male,32,1,0,3101278,15.85,,S,Mr.,Backstrom,96.0,2,Young Adult,195664.1036819535,0,Southampton,26,15.85,
+208,1,3,Albimona, Mr. Nassef Cassem,male,26,0,0,2699,18.7875,,C,Mr.,Albimona,78.0,1,Young Adult,143.65927150537777,1,Cherbourg,27,18.7875,
+209,1,3,Carr, Miss. Helen "Ellen",female,16,0,0,367231,7.75,,Q,Miss.,Carr,48.0,1,Child,47384.58401989159,1,Queenstown,25,7.75,
+210,1,1,Blank, Mr. Henry,male,40,0,0,112277,31.0,A31,C,Mr.,Blank,40.0,1,Adult,3621.837541342729,1,Cherbourg,16,31.0,A
+211,0,3,Ali, Mr. Ahmed,male,24,0,0,SOTON/O.Q. 3101311,7.05,,S,Mr.,Ali,72.0,1,Young Adult,0.0,1,Southampton,14,7.05,
+212,1,2,Cameron, Miss. Clear Annie,female,35,0,0,F.C.C. 13528,21.0,,S,Miss.,Cameron,70.0,1,Adult,0.0,1,Southampton,26,21.0,
+213,0,3,Perkin, Mr. John Henry,male,22,0,0,A/5 21174,7.25,,S,Mr.,Perkin,66.0,1,Young Adult,0.0,1,Southampton,22,7.25,
+214,0,2,Givard, Mr. Hans Kristensen,male,30,0,0,250646,13.0,,S,Mr.,Givard,60.0,1,Young Adult,19280.44670734869,1,Southampton,27,13.0,
+215,0,3,Kiernan, Mr. Philip,male,,1,0,367229,7.75,,Q,Mr.,Kiernan,,2,,47384.325955708446,0,Queenstown,19,7.75,
+216,1,1,Newell, Miss. Madeleine,female,31,1,0,35273,113.275,D36,C,Miss.,Newell,31.0,2,Young Adult,311.39260106885,0,Cherbourg,23,113.275,D
+217,1,3,Honkanen, Miss. Eliina,female,27,0,0,STON/O2. 3101283,7.925,,S,Miss.,Honkanen,81.0,1,Young Adult,0.0,1,Southampton,22,7.925,
+218,0,2,Jacobsohn, Mr. Sidney Samuel,male,42,1,0,243847,27.0,,S,Mr.,Jacobsohn,84.0,2,Adult,9031.36702541962,0,Southampton,28,27.0,
+219,1,1,Bazzani, Miss. Albina,female,32,0,0,11813,76.2917,D15,C,Miss.,Bazzani,32.0,1,Young Adult,154.83989020563308,1,Cherbourg,21,76.2917,D
+220,0,2,Harris, Mr. Walter,male,30,0,0,W/C 14208,10.5,,S,Mr.,Harris,60.0,1,Young Adult,0.0,1,Southampton,18,10.5,
+221,1,3,Sunderland, Mr. Victor Francis,male,16,0,0,SOTON/OQ 392089,8.05,,S,Mr.,Sunderland,48.0,1,Child,0.0,1,Southampton,30,8.05,
+222,0,2,Bracken, Mr. James H,male,27,0,0,220367,13.0,,S,Mr.,Bracken,54.0,1,Young Adult,16951.29465285027,1,Southampton,20,13.0,
+223,0,3,Green, Mr. George Henry,male,51,0,0,21440,8.05,,S,Mr.,Green,153.0,1,None,2663.3507287568586,1,Southampton,23,8.05,
+224,0,3,Nenkoff, Mr. Christo,male,,0,0,349234,7.8958,,S,Mr.,Nenkoff,,1,,44230.294295328786,1,Southampton,20,7.8958,
+225,1,1,Hoyt, Mr. Frederick Maxfield,male,38,1,0,19943,90.0,C93,S,Mr.,Hoyt,38.0,2,Adult,221.58886426790397,0,Southampton,28,90.0,C
+226,0,3,Berglund, Mr. Karl Ivar Sven,male,22,0,0,PP 4348,9.35,,S,Mr.,Berglund,66.0,1,Young Adult,0.0,1,Southampton,28,9.35,
+227,1,2,Mellors, Mr. William John,male,19,0,0,SW/PP 751,10.5,,S,Mr.,Mellors,38.0,1,Young Adult,0.0,1,Southampton,25,10.5,
+228,0,3,Lovell, Mr. John Hall ("Henry"),male,20.5,0,0,A/5 21173,7.25,,S,Mr.,Lovell,61.5,1,Young Adult,0.0,1,Southampton,31,7.25,
+229,0,2,Fahlstrom, Mr. Arne Jonas,male,18,0,0,236171,13.0,,S,Mr.,Fahlstrom,36.0,1,Young Adult,18166.986025395367,1,Southampton,25,13.0,
+230,0,3,Lefebre, Miss. Mathilde,female,,3,1,4133,25.4667,,S,Miss.,Lefebre,,5,,162.29029976781453,0,Southampton,23,25.4667,
+231,1,1,Harris, Mrs. Henry Birkhardt (Irene Wallach),female,35,1,0,36973,83.475,C83,S,Mrs.,Harris,35.0,2,Adult,442.92297778700475,0,Southampton,44,83.475,C
+232,0,3,Larsson, Mr. Bengt Edvin,male,29,0,0,347067,7.775,,S,Mr.,Larsson,87.0,1,Young Adult,44638.78503050157,1,Southampton,24,7.775,
+233,0,2,Sjostedt, Mr. Ernst Adolf,male,59,0,0,237442,13.5,,S,Mr.,Sjostedt,118.0,1,None,17588.28326793832,1,Southampton,25,13.5,
+234,1,3,Asplund, Miss. Lillian Gertrud,female,5,4,2,347077,31.3875,,S,Miss.,Asplund,15.0,7,Child,11057.806114597814,0,Southampton,30,31.3875,
+235,0,2,Leyson, Mr. Robert William Norman,male,24,0,0,C.A. 29566,10.5,,S,Mr.,Leyson,48.0,1,Young Adult,0.0,1,Southampton,33,10.5,
+236,0,3,Harknett, Miss. Alice Phoebe,female,,0,0,W./C. 6609,7.55,,S,Miss.,Harknett,,1,,0.0,1,Southampton,28,7.55,
+237,0,2,Hold, Mr. Stephen,male,44,1,0,26707,26.0,,S,Mr.,Hold,88.0,2,Adult,1027.191912618495,0,Southampton,17,26.0,
+238,1,2,Collyer, Miss. Marjorie "Lottie",female,8,0,2,C.A. 31921,26.25,,S,Miss.,Collyer,16.0,3,Child,0.0,0,Southampton,32,26.25,
+239,0,2,Pengelly, Mr. Frederick William,male,19,0,0,28665,10.5,,S,Mr.,Pengelly,38.0,1,Young Adult,2729.9974000024763,1,Southampton,31,10.5,
+240,0,2,Hunt, Mr. George Henry,male,33,0,0,SCO/W 1585,12.275,,S,Mr.,Hunt,66.0,1,Young Adult,0.0,1,Southampton,22,12.275,
+241,0,3,Zabour, Miss. Thamine,female,,1,0,2665,14.4542,,C,Miss.,Zabour,,2,,184.3753480819775,0,Cherbourg,21,14.4542,
+242,1,3,Murphy, Miss. Katherine "Kate",female,,1,0,367230,15.5,,Q,Miss.,Murphy,,2,,23692.242779198208,0,Queenstown,30,15.5,
+243,0,2,Coleridge, Mr. Reginald Charles,male,29,0,0,W./C. 14263,10.5,,S,Mr.,Coleridge,58.0,1,Young Adult,0.0,1,Southampton,31,10.5,
+244,0,3,Maenpaa, Mr. Matti Alexanteri,male,22,0,0,STON/O 2. 3101275,7.125,,S,Mr.,Maenpaa,66.0,1,Young Adult,0.0,1,Southampton,29,7.125,
+245,0,3,Attalah, Mr. Sleiman,male,30,0,0,2694,7.225,,C,Mr.,Attalah,90.0,1,Young Adult,372.8714562332786,1,Cherbourg,20,7.225,
+246,0,1,Minahan, Dr. William Edward,male,44,2,0,19928,90.0,C78,Q,Dr.,Minahan,44.0,3,Adult,221.42219761975582,0,Queenstown,27,90.0,C
+247,0,3,Lindahl, Miss. Agda Thorilda Viktoria,female,25,0,0,347071,7.775,,S,Miss.,Lindahl,75.0,1,Young Adult,44639.29949929325,1,Southampton,37,7.775,
+248,1,2,Hamalainen, Mrs. William (Anna),female,24,0,2,250649,14.5,,S,Mrs.,Hamalainen,48.0,3,Young Adult,17286.12600956827,0,Southampton,31,14.5,
+249,1,1,Beckwith, Mr. Richard Leonard,male,37,1,1,11751,52.5542,D35,S,Mr.,Beckwith,37.0,3,Adult,223.59769084151392,0,Southampton,29,52.5542,D
+250,0,2,Carter, Rev. Ernest Courtenay,male,54,1,0,244252,26.0,,S,Rev.,Carter,108.0,2,None,9394.304079113816,0,Southampton,29,26.0,
+251,0,3,Reed, Mr. James George,male,,0,0,362316,7.25,,S,Mr.,Reed,,1,,49974.55175923896,1,Southampton,22,7.25,
+252,0,3,Strom, Mrs. Wilhelm (Elna Matilda Persson),female,29,1,1,347054,10.4625,G6,S,Mrs.,Strom,87.0,3,Young Adult,33171.19888057455,0,Southampton,42,10.4625,G
+253,0,1,Stead, Mr. William Thomas,male,62,0,0,113514,26.55,C87,S,Mr.,Stead,62.0,1,None,4275.478615638939,1,Southampton,25,26.55,C
+254,0,3,Lobb, Mr. William Arthur,male,30,1,0,A/5. 3336,16.1,,S,Mr.,Lobb,90.0,2,Young Adult,0.0,0,Southampton,24,16.1,
+255,0,3,Rosblom, Mrs. Viktor (Helena Wilhelmina),female,41,0,2,370129,20.2125,,S,Mrs.,Rosblom,123.0,3,Adult,18311.877149349588,0,Southampton,40,20.2125,
+256,1,3,Touma, Mrs. Darwis (Hanne Youssef Razi),female,29,0,2,2650,15.2458,,C,Mrs.,Touma,87.0,3,Young Adult,173.81824907958318,0,Cherbourg,39,15.2458,
+257,1,1,Thorne, Mrs. Gertrude Maybelle,female,,0,0,PC 17585,79.2,,C,Mrs.,Thorne,,1,,0.0,1,Cherbourg,30,79.2,
+258,1,1,Cherry, Miss. Gladys,female,30,0,0,110152,86.5,B77,S,Miss.,Cherry,30.0,1,Young Adult,1273.433378793829,1,Southampton,20,86.5,B
+259,1,1,Ward, Miss. Anna,female,35,0,0,PC 17755,512.3292,,C,Miss.,Ward,35.0,1,Adult,0.0,1,Cherbourg,16,512.3292,
+260,1,2,Parrish, Mrs. (Lutie Davis),female,50,0,1,230433,26.0,,S,Mrs.,Parrish,100.0,2,None,8862.804283536814,0,Southampton,27,26.0,
+261,0,3,Smith, Mr. Thomas,male,,0,0,384461,7.75,,Q,Mr.,Smith,,1,,49607.80695766844,1,Queenstown,17,7.75,
+262,1,3,Asplund, Master. Edvin Rojj Felix,male,3,4,2,347077,31.3875,,S,Master.,Asplund,9.0,7,Child,11057.806114597814,0,Southampton,33,31.3875,
+263,0,1,Taussig, Mr. Emil,male,52,1,1,110413,79.65,E67,S,Mr.,Taussig,52.0,3,None,1386.2270701535379,0,Southampton,17,79.65,E
+264,0,1,Harrison, Mr. William,male,40,0,0,112059,0.0,B94,S,Mr.,Harrison,40.0,1,Adult,11205900000.0,1,Southampton,21,0.0,B
+265,0,3,Henry, Miss. Delia,female,,0,0,382649,7.75,,Q,Miss.,Henry,,1,,49374.00080774089,1,Queenstown,18,7.75,
+266,0,2,Reeves, Mr. David,male,36,0,0,C.A. 17248,10.5,,S,Mr.,Reeves,72.0,1,Adult,0.0,1,Southampton,17,10.5,
+267,0,3,Panula, Mr. Ernesti Arvid,male,16,4,1,3101295,39.6875,,S,Mr.,Panula,48.0,6,Child,78142.84645219616,0,Southampton,25,39.6875,
+268,1,3,Persson, Mr. Ernst Ulrik,male,25,1,0,347083,7.775,,S,Mr.,Persson,75.0,2,Young Adult,44640.84290566829,0,Southampton,24,7.775,
+269,1,1,Graham, Mrs. William Thompson (Edith Junkins),female,58,0,1,PC 17582,153.4625,C125,S,Mrs.,Graham,58.0,2,None,0.0,0,Southampton,45,153.4625,C
+270,1,1,Bissette, Miss. Amelia,female,35,0,0,PC 17760,135.6333,C99,S,Miss.,Bissette,35.0,1,Adult,0.0,1,Southampton,22,135.6333,C
+271,0,1,Cairns, Mr. Alexander,male,,0,0,113798,31.0,,S,Mr.,Cairns,,1,,3670.902041644503,1,Southampton,21,31.0,
+272,1,3,Tornquist, Mr. William Henry,male,25,0,0,LINE,0.0,,S,Mr.,Tornquist,75.0,1,Young Adult,0.0,1,Southampton,28,0.0,
+273,1,2,Mellinger, Mrs. (Elizabeth Anne Maidment),female,41,0,1,250644,19.5,,S,Mrs.,Mellinger,82.0,2,Adult,12853.531869983657,0,Southampton,41,19.5,
+274,0,1,Natsch, Mr. Charles H,male,37,0,1,PC 17596,29.7,C118,C,Mr.,Natsch,37.0,2,Adult,0.0,0,Cherbourg,21,29.7,C
+275,1,3,Healy, Miss. Hanora "Nora",female,,0,0,370375,7.75,,Q,Miss.,Healy,,1,,47790.26091579237,1,Queenstown,26,7.75,
+276,1,1,Andrews, Miss. Kornelia Theodosia,female,63,1,0,13502,77.9583,D7,S,Miss.,Andrews,63.0,2,None,173.195134681601,0,Southampton,33,77.9583,D
+277,0,3,Lindblom, Miss. Augusta Charlotta,female,45,0,0,347073,7.75,,S,Miss.,Lindblom,135.0,1,Adult,44783.5551179934,1,Southampton,33,7.75,
+278,0,2,Parkes, Mr. Francis "Frank",male,,0,0,239853,0.0,,S,Mr.,Parkes,,1,,23985299999.999996,1,Southampton,27,0.0,
+279,0,3,Rice, Master. Eric,male,7,4,1,382652,29.125,,Q,Master.,Rice,21.0,6,Child,13138.2615834295,0,Queenstown,18,29.125,
+280,1,3,Abbott, Mrs. Stanton (Rosa Hunt),female,35,1,1,C.A. 2673,20.25,,S,Mrs.,Abbott,105.0,3,Adult,0.0,0,Southampton,32,20.25,
+281,0,3,Duane, Mr. Frank,male,65,0,0,336439,7.75,,Q,Mr.,Duane,195.0,1,None,43411.42785622212,1,Queenstown,16,7.75,
+282,0,3,Olsson, Mr. Nils Johan Goransson,male,28,0,0,347464,7.8542,,S,Mr.,Olsson,84.0,1,Young Adult,44239.20419749409,1,Southampton,32,7.8542,
+283,0,3,de Pelsmaeker, Mr. Alfons,male,16,0,0,345778,9.5,,S,Mr.,de Pelsmaeker,48.0,1,Child,36397.64589721485,1,Southampton,25,9.5,
+284,1,3,Dorking, Mr. Edward Arthur,male,19,0,0,A/5. 10482,8.05,,S,Mr.,Dorking,57.0,1,Young Adult,0.0,1,Southampton,26,8.05,
+285,0,1,Smith, Mr. Richard William,male,,0,0,113056,26.0,A19,S,Mr.,Smith,,1,,4348.3060198823005,1,Southampton,26,26.0,A
+286,0,3,Stankovic, Mr. Ivan,male,33,0,0,349239,8.6625,,C,Mr.,Stankovic,99.0,1,Young Adult,40316.14393518738,1,Cherbourg,19,8.6625,
+287,1,3,de Mulder, Mr. Theodore,male,30,0,0,345774,9.5,,S,Mr.,de Mulder,90.0,1,Young Adult,36397.22484502648,1,Southampton,23,9.5,
+288,0,3,Naidenoff, Mr. Penko,male,22,0,0,349206,7.8958,,S,Mr.,Naidenoff,66.0,1,Young Adult,44226.748110706816,1,Southampton,20,7.8958,
+289,1,2,Hosono, Mr. Masabumi,male,42,0,0,237798,13.0,,S,Mr.,Hosono,84.0,1,Adult,18292.139775277097,1,Southampton,20,13.0,
+290,1,3,Connolly, Miss. Kate,female,22,0,0,370373,7.75,,Q,Miss.,Connolly,66.0,1,Young Adult,47790.00285160923,1,Queenstown,20,7.75,
+291,1,1,Barber, Miss. Ellen "Nellie",female,26,0,0,19877,78.85,,S,Miss.,Barber,26.0,1,Young Adult,252.08620772527487,1,Southampton,28,78.85,
+292,1,1,Bishop, Mrs. Dickinson H (Helen Walton),female,19,1,0,11967,91.0792,B49,C,Mrs.,Bishop,19.0,2,Young Adult,131.39112647112333,0,Cherbourg,39,91.0792,B
+293,0,2,Levy, Mr. Rene Jacques,male,36,0,0,SC/Paris 2163,12.875,D,C,Mr.,Levy,72.0,1,Adult,0.0,1,Cherbourg,22,12.875,D
+294,0,3,Haas, Miss. Aloisia,female,24,0,0,349236,8.85,,S,Miss.,Haas,72.0,1,Young Adult,39461.650325818846,1,Southampton,19,8.85,
+295,0,3,Mineff, Mr. Ivan,male,24,0,0,349233,7.8958,,S,Mr.,Mineff,72.0,1,Young Adult,44230.167645878006,1,Southampton,16,7.8958,
+296,0,1,Lewy, Mr. Ervin G,male,,0,0,PC 17612,27.7208,,C,Mr.,Lewy,,1,,0.0,1,Cherbourg,17,27.7208,
+297,0,3,Hanna, Mr. Mansour,male,23.5,0,0,2693,7.2292,,C,Mr.,Hanna,70.5,1,Young Adult,372.5164990365476,1,Cherbourg,18,7.2292,
+298,0,1,Allison, Miss. Helen Loraine,female,2,1,2,113781,151.55,C22 C26,S,Miss.,Allison,2.0,4,Child,750.7818706181542,0,Southampton,28,151.55,C
+299,1,1,Saalfeld, Mr. Adolphe,male,,0,0,19988,30.5,C106,S,Mr.,Saalfeld,,1,,655.3440474281812,1,Southampton,21,30.5,C
+300,1,1,Baxter, Mrs. James (Helene DeLaudeniere Chaput),female,50,0,1,PC 17558,247.5208,B58 B60,C,Mrs.,Baxter,50.0,2,None,0.0,0,Cherbourg,47,247.5208,B
+301,1,3,Kelly, Miss. Anna Katherine "Annie Kate",female,,0,0,9234,7.75,,Q,Miss.,Kelly,,1,,1191.4823335711826,1,Queenstown,40,7.75,
+302,1,3,McCoy, Mr. Bernard,male,,2,0,367226,23.25,,Q,Mr.,McCoy,,3,,15794.65987326457,0,Queenstown,18,23.25,
+303,0,3,Johnson, Mr. William Cahoone Jr,male,19,0,0,LINE,0.0,,S,Mr.,Johnson,57.0,1,Young Adult,0.0,1,Southampton,31,0.0,
+304,1,2,Keane, Miss. Nora A,female,,0,0,226593,12.35,E101,Q,Miss.,Keane,,1,,18347.596479678967,1,Queenstown,19,12.35,E
+305,0,3,Williams, Mr. Howard Hugh "Harry",male,,0,0,A/5 2466,8.05,,S,Mr.,Williams,,1,,0.0,1,Southampton,33,8.05,
+306,1,1,Allison, Master. Hudson Trevor,male,0.92,1,2,113781,151.55,C22 C26,S,Master.,Allison,0.92,4,Child,750.7818706181542,0,Southampton,30,151.55,C
+307,1,1,Fleming, Miss. Margaret,female,,0,0,17421,110.8833,,C,Miss.,Fleming,,1,,157.1111107704126,1,Cherbourg,23,110.8833,
+308,1,1,Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo),female,17,1,0,PC 17758,108.9,C65,C,Mrs.,Penasco y Castellana,17.0,2,Child,0.0,0,Cherbourg,82,108.9,C
+309,0,2,Abelson, Mr. Samuel,male,30,1,0,P/PP 3381,24.0,,C,Mr.,Abelson,60.0,2,Young Adult,0.0,0,Cherbourg,19,24.0,
+310,1,1,Francatelli, Miss. Laura Mabel,female,30,0,0,PC 17485,56.9292,E36,C,Miss.,Francatelli,30.0,1,Young Adult,0.0,1,Cherbourg,30,56.9292,E
+311,1,1,Hays, Miss. Margaret Bechstein,female,24,0,0,11767,83.1583,C54,C,Miss.,Hays,24.0,1,Young Adult,141.50119212379377,1,Cherbourg,30,83.1583,C
+312,1,1,Ryerson, Miss. Emily Borie,female,18,2,2,PC 17608,262.375,B57 B59 B63 B66,C,Miss.,Ryerson,18.0,5,Young Adult,0.0,0,Cherbourg,26,262.375,B
+313,0,2,Lahtinen, Mrs. William (Anna Sylfven),female,26,1,1,250651,26.0,,S,Mrs.,Lahtinen,52.0,3,Young Adult,9640.419369069474,0,Southampton,37,26.0,
+314,0,3,Hendekovic, Mr. Ignjac,male,28,0,0,349243,7.8958,,S,Mr.,Hendekovic,84.0,1,Young Adult,44231.43414038585,1,Southampton,22,7.8958,
+315,0,2,Hart, Mr. Benjamin,male,43,1,1,F.C.C. 13529,26.25,,S,Mr.,Hart,86.0,3,Adult,0.0,0,Southampton,18,26.25,
+316,1,3,Nilsson, Miss. Helmina Josefina,female,26,0,0,347470,7.8542,,S,Miss.,Nilsson,78.0,1,Young Adult,44239.968119008794,1,Southampton,31,7.8542,
+317,1,2,Kantor, Mrs. Sinai (Miriam Sternin),female,24,1,0,244367,26.0,,S,Mrs.,Kantor,48.0,2,Young Adult,9398.72715433571,0,Southampton,35,26.0,
+318,0,2,Moraweck, Dr. Ernest,male,54,0,0,29011,14.0,,S,Dr.,Moraweck,108.0,1,None,2072.2128055622816,1,Southampton,20,14.0,
+319,1,1,Wick, Miss. Mary Natalie,female,31,0,2,36928,164.8667,C7,S,Miss.,Wick,31.0,3,Young Adult,223.9870013782649,0,Southampton,24,164.8667,C
+320,1,1,Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone),female,40,1,1,16966,134.5,E34,C,Mrs.,Spedden,40.0,3,Adult,126.1412545619885,0,Cherbourg,56,134.5,E
+321,0,3,Dennis, Mr. Samuel,male,22,0,0,A/5 21172,7.25,,S,Mr.,Dennis,66.0,1,Young Adult,0.0,1,Southampton,18,7.25,
+322,0,3,Danoff, Mr. Yoto,male,27,0,0,349219,7.8958,,S,Mr.,Danoff,81.0,1,Young Adult,44228.39455356702,1,Southampton,16,7.8958,
+323,1,2,Slayter, Miss. Hilda Mary,female,30,0,0,234818,12.35,,Q,Miss.,Slayter,60.0,1,Young Adult,19013.58784324871,1,Queenstown,25,12.35,
+324,1,2,Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh),female,22,1,1,248738,29.0,,S,Mrs.,Caldwell,44.0,3,Young Adult,8577.169456148464,0,Southampton,51,29.0,
+325,0,3,Sage, Mr. George John Jr,male,,8,2,CA. 2343,69.55,,S,Mr.,Sage,,11,,0.0,0,Southampton,24,69.55,
+326,1,1,Young, Miss. Marie Grice,female,36,0,0,PC 17760,135.6333,C32,C,Miss.,Young,36.0,1,Adult,0.0,1,Cherbourg,24,135.6333,C
+327,0,3,Nysveen, Mr. Johan Hansen,male,61,0,0,345364,6.2375,,S,Mr.,Nysveen,183.0,1,None,55368.88918815361,1,Southampton,25,6.2375,
+328,1,2,Ball, Mrs. (Ada E Hall),female,36,0,0,28551,13.0,D,S,Mrs.,Ball,72.0,1,Adult,2196.229079823785,1,Southampton,23,13.0,D
+329,1,3,Goldsmith, Mrs. Frank John (Emily Alice Brown),female,31,1,1,363291,20.525,,S,Mrs.,Goldsmith,93.0,3,Young Adult,17699.918294802294,0,Southampton,46,20.525,
+330,1,1,Hippach, Miss. Jean Gertrude,female,16,0,1,111361,57.9792,B18,C,Miss.,Hippach,16.0,2,Child,1920.7057150313017,0,Cherbourg,28,57.9792,B
+331,1,3,McCoy, Miss. Agnes,female,,2,0,367226,23.25,,Q,Miss.,McCoy,,3,,15794.65987326457,0,Queenstown,18,23.25,
+332,0,1,Partner, Mr. Austen,male,45.5,0,0,113043,28.5,C124,S,Mr.,Partner,45.5,1,Adult,3966.419660905382,1,Southampton,19,28.5,C
+333,0,1,Graham, Mr. George Edward,male,38,0,1,PC 17582,153.4625,C91,S,Mr.,Graham,38.0,2,Adult,0.0,0,Southampton,25,153.4625,C
+334,0,3,Vander Planke, Mr. Leo Edmondus,male,16,2,0,345764,18.0,,S,Mr.,Vander Planke,48.0,3,Child,19209.100439388647,0,Southampton,31,18.0,
+335,1,1,Frauenthal, Mrs. Henry William (Clara Heinsheimer),female,,1,0,PC 17611,133.65,,S,Mrs.,Frauenthal,,2,,0.0,0,Southampton,50,133.65,
+336,0,3,Denkoff, Mr. Mitto,male,,0,0,349225,7.8958,,S,Mr.,Denkoff,,1,,44229.15445027173,1,Southampton,18,7.8958,
+337,0,1,Pears, Mr. Thomas Clinton,male,29,1,0,113776,66.6,C2,S,Mr.,Pears,29.0,2,Young Adult,1708.348091839626,0,Southampton,25,66.6,C
+338,1,1,Burns, Miss. Elizabeth Margaret,female,41,0,0,16966,134.5,E40,C,Miss.,Burns,41.0,1,Adult,126.1412545619885,1,Cherbourg,31,134.5,E
+339,1,3,Dahl, Mr. Karl Edwart,male,45,0,0,7598,8.05,,S,Mr.,Dahl,135.0,1,Adult,943.8497591928457,1,Southampton,21,8.05,
+340,0,1,Blackwell, Mr. Stephen Weart,male,45,0,0,113784,35.5,T,S,Mr.,Blackwell,45.0,1,Adult,3205.1821957233246,1,Southampton,28,35.5,T
+341,1,2,Navratil, Master. Edmond Roger,male,2,1,1,230080,26.0,F2,S,Master.,Navratil,4.0,3,Child,8849.227365681783,0,Southampton,30,26.0,F
+342,1,1,Fortune, Miss. Alice Elizabeth,female,24,3,2,19950,263.0,C23 C25 C27,S,Miss.,Fortune,24.0,6,Young Adult,75.85551042374486,0,Southampton,30,263.0,C
+343,0,2,Collander, Mr. Erik Gustaf,male,28,0,0,248740,13.0,,S,Mr.,Collander,56.0,1,Young Adult,19133.83143551428,1,Southampton,26,13.0,
+344,0,2,Sedgwick, Mr. Charles Frederick Waddington,male,25,0,0,244361,13.0,,S,Mr.,Sedgwick,50.0,1,Young Adult,18796.985540780355,1,Southampton,42,13.0,
+345,0,2,Fox, Mr. Stanley Hubert,male,36,0,0,229236,13.0,,S,Mr.,Fox,72.0,1,Adult,17633.524897288542,1,Southampton,23,13.0,
+346,1,2,Brown, Miss. Amelia "Mildred",female,24,0,0,248733,13.0,F33,S,Miss.,Brown,48.0,1,Young Adult,19133.29297439002,1,Southampton,29,13.0,F
+347,1,2,Smith, Miss. Marion Elsie,female,40,0,0,31418,13.0,,S,Miss.,Smith,80.0,1,Adult,2416.7673717174066,1,Southampton,25,13.0,
+348,1,3,Davison, Mrs. Thomas Henry (Mary E Finck),female,,1,0,386525,16.1,,S,Mrs.,Davison,,2,,24007.7490635099,0,Southampton,41,16.1,
+349,1,3,Coutts, Master. William Loch "William",male,3,1,1,C.A. 37671,15.9,,S,Master.,Coutts,9.0,3,Child,0.0,0,Southampton,38,15.9,
+350,0,3,Dimic, Mr. Jovan,male,42,0,0,315088,8.6625,,S,Mr.,Dimic,126.0,1,Adult,36373.75310389252,1,Southampton,16,8.6625,
+351,0,3,Odahl, Mr. Nils Martin,male,23,0,0,7267,9.225,,S,Mr.,Odahl,69.0,1,Young Adult,787.749823577427,1,Southampton,22,9.225,
+352,0,1,Williams-Lambert, Mr. Fletcher Fellows,male,,0,0,113510,35.0,C128,S,Mr.,Williams-Lambert,,1,,3243.141930530877,1,Southampton,38,35.0,C
+353,0,3,Elias, Mr. Tannous,male,15,1,1,2695,7.2292,,C,Mr.,Elias,45.0,3,Child,372.7931544387285,0,Cherbourg,18,7.2292,
+354,0,3,Arnold-Franchi, Mr. Josef,male,25,1,0,349237,17.8,,S,Mr.,Arnold-Franchi,75.0,2,Young Adult,19620.045157278,0,Southampton,25,17.8,
+355,0,3,Yousif, Mr. Wazli,male,,0,0,2647,7.225,,C,Mr.,Yousif,,1,,366.3662749255711,1,Cherbourg,17,7.225,
+356,0,3,Vanden Steen, Mr. Leo Peter,male,28,0,0,345783,9.5,,S,Mr.,Vanden Steen,84.0,1,Young Adult,36398.17221245031,1,Southampton,27,9.5,
+357,1,1,Bowerman, Miss. Elsie Edith,female,22,0,1,113505,55.0,E33,S,Miss.,Bowerman,22.0,2,Young Adult,2063.7268975042,0,Southampton,27,55.0,E
+358,0,2,Funk, Miss. Annie Clemmer,female,38,0,0,237671,13.0,,S,Miss.,Funk,76.0,1,Adult,18282.370552022654,1,Southampton,25,13.0,
+359,1,3,McGovern, Miss. Mary,female,,0,0,330931,7.8792,,Q,Miss.,McGovern,,1,,42000.53051003844,1,Queenstown,20,7.8792,
+360,1,3,Mockler, Miss. Helen Mary "Ellie",female,,0,0,330980,7.8792,,Q,Miss.,Mockler,,1,,42006.74940761828,1,Queenstown,33,7.8792,
+361,0,3,Skoog, Mr. Wilhelm,male,40,1,4,347088,27.9,,S,Mr.,Skoog,120.0,6,Adult,12440.425648592958,0,Southampton,18,27.9,
+362,0,2,del Carlo, Mr. Sebastiano,male,29,1,0,SC/PARIS 2167,27.7208,,C,Mr.,del Carlo,58.0,2,Young Adult,0.0,0,Cherbourg,25,27.7208,
+363,0,3,Barbara, Mrs. (Catherine David),female,45,0,1,2691,14.4542,,C,Mrs.,Barbara,135.0,2,Adult,186.1741319657041,0,Cherbourg,31,14.4542,
+364,0,3,Asim, Mr. Adola,male,35,0,0,SOTON/O.Q. 3101310,7.05,,S,Mr.,Asim,105.0,1,Adult,0.0,1,Southampton,15,7.05,
+365,0,3,O'Brien, Mr. Thomas,male,,1,0,370365,15.5,,Q,Mr.,O'Brien,,2,,23894.50071322535,0,Queenstown,19,15.5,
+366,0,3,Adahl, Mr. Mauritz Nils Martin,male,30,0,0,C 7076,7.25,,S,Mr.,Adahl,90.0,1,Young Adult,0.0,1,Southampton,30,7.25,
+367,1,1,Warren, Mrs. Frank Manley (Anna Sophia Atkinson),female,60,1,0,110813,75.25,D37,C,Mrs.,Warren,60.0,2,None,1472.597810950457,0,Cherbourg,48,75.25,D
+368,1,3,Moussa, Mrs. (Mantoura Boulos),female,,0,0,2626,7.2292,,C,Mrs.,Moussa,,1,,363.2485430634883,1,Cherbourg,30,7.2292,
+369,1,3,Jermyn, Miss. Annie,female,,0,0,14313,7.75,,Q,Miss.,Jermyn,,1,,1846.8363266628044,1,Queenstown,19,7.75,
+370,1,1,Aubart, Mme. Leontine Pauline,female,24,0,0,PC 17477,69.3,B35,C,Mme.,Aubart,24.0,1,Young Adult,0.0,1,Cherbourg,29,69.3,B
+371,1,1,Harder, Mr. George Achilles,male,25,1,0,11765,55.4417,E50,C,Mr.,Harder,25.0,2,Young Adult,212.20485443179874,0,Cherbourg,27,55.4417,E
+372,0,3,Wiklund, Mr. Jakob Alfred,male,18,1,0,3101267,6.4958,,S,Mr.,Wiklund,54.0,2,Young Adult,477425.7559873211,0,Southampton,25,6.4958,
+373,0,3,Beavan, Mr. William Thomas,male,19,0,0,323951,8.05,,S,Mr.,Beavan,57.0,1,Young Adult,40242.31025799968,1,Southampton,26,8.05,
+374,0,1,Ringhini, Mr. Sante,male,22,0,0,PC 17760,135.6333,,C,Mr.,Ringhini,22.0,1,Young Adult,0.0,1,Cherbourg,19,135.6333,
+375,0,3,Palsson, Miss. Stina Viola,female,3,3,1,349909,21.075,,S,Miss.,Palsson,9.0,5,Child,16603.028895359956,0,Southampton,26,21.075,
+376,1,1,Meyer, Mrs. Edgar Joseph (Leila Saks),female,,1,0,PC 17604,82.1708,,C,Mrs.,Meyer,,2,,0.0,0,Cherbourg,37,82.1708,
+377,1,3,Landergren, Miss. Aurora Adelia,female,22,0,0,C 7077,7.25,,S,Miss.,Landergren,66.0,1,Young Adult,0.0,1,Southampton,31,7.25,
+378,0,1,Widener, Mr. Harry Elkins,male,27,0,2,113503,211.5,C82,C,Mr.,Widener,27.0,3,Young Adult,536.6571850280291,0,Cherbourg,25,211.5,C
+379,0,3,Betros, Mr. Tannous,male,20,0,0,2648,4.0125,,C,Mr.,Betros,60.0,1,Young Adult,659.9360500036138,1,Cherbourg,19,4.0125,
+380,0,3,Gustafsson, Mr. Karl Gideon,male,19,0,0,347069,7.775,,S,Mr.,Gustafsson,57.0,1,Young Adult,44639.042264897405,1,Southampton,27,7.775,
+381,1,1,Bidois, Miss. Rosalie,female,42,0,0,PC 17757,227.525,,C,Miss.,Bidois,42.0,1,Adult,0.0,1,Cherbourg,21,227.525,
+382,1,3,Nakid, Miss. Maria ("Mary"),female,1,0,2,2653,15.7417,,C,Miss.,Nakid,3.0,3,Child,168.53315173510376,0,Cherbourg,27,15.7417,
+383,0,3,Tikkanen, Mr. Juho,male,32,0,0,STON/O 2. 3101293,7.925,,S,Mr.,Tikkanen,96.0,1,Young Adult,0.0,1,Southampton,18,7.925,
+384,1,1,Holverson, Mrs. Alexander Oskar (Mary Aline Towner),female,35,1,0,113789,52.0,,S,Mrs.,Holverson,35.0,2,Adult,2188.2495791827732,0,Southampton,51,52.0,
+385,0,3,Plotcharsky, Mr. Vasil,male,,0,0,349227,7.8958,,S,Mr.,Plotcharsky,,1,,44229.4077491733,1,Southampton,22,7.8958,
+386,0,2,Davies, Mr. Charles Henry,male,18,0,0,S.O.C. 14879,73.5,,S,Mr.,Davies,36.0,1,Young Adult,0.0,1,Southampton,25,73.5,
+387,0,3,Goodwin, Master. Sidney Leonard,male,1,5,2,CA 2144,46.9,,S,Master.,Goodwin,3.0,8,Child,0.0,0,Southampton,31,46.9,
+388,1,2,Buss, Miss. Kate,female,36,0,0,27849,13.0,,S,Miss.,Buss,72.0,1,Adult,2142.2291213622143,1,Southampton,16,13.0,
+389,0,3,Sadlier, Mr. Matthew,male,,0,0,367655,7.7292,,Q,Mr.,Sadlier,,1,,47566.957037006374,1,Queenstown,20,7.7292,
+390,1,2,Lehmann, Miss. Bertha,female,17,0,0,SC 1748,12.0,,C,Miss.,Lehmann,34.0,1,Child,0.0,1,Cherbourg,21,12.0,
+391,1,1,Carter, Mr. William Ernest,male,36,1,2,113760,120.0,B96 B98,S,Mr.,Carter,36.0,4,Adult,947.9999210000066,0,Southampton,26,120.0,B
+392,1,3,Jansson, Mr. Carl Olof,male,21,0,0,350034,7.7958,,S,Mr.,Jansson,63.0,1,Young Adult,44900.27335196728,1,Southampton,22,7.7958,
+393,0,3,Gustafsson, Mr. Johan Birger,male,28,2,0,3101277,7.925,,S,Mr.,Gustafsson,84.0,3,Young Adult,391327.8342866445,0,Southampton,28,7.925,
+394,1,1,Newell, Miss. Marjorie,female,23,1,0,35273,113.275,D36,C,Miss.,Newell,23.0,2,Young Adult,311.39260106885,0,Cherbourg,22,113.275,D
+395,1,3,Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson),female,24,0,2,PP 9549,16.7,G6,S,Mrs.,Sandstrom,72.0,3,Young Adult,0.0,0,Southampton,51,16.7,G
+396,0,3,Johansson, Mr. Erik,male,22,0,0,350052,7.7958,,S,Mr.,Johansson,66.0,1,Young Adult,44902.58228458621,1,Southampton,19,7.7958,
+397,0,3,Olsson, Miss. Elina,female,31,0,0,350407,7.8542,,S,Miss.,Olsson,93.0,1,Young Adult,44613.90770045619,1,Southampton,19,7.8542,
+398,0,2,McKane, Mr. Peter David,male,46,0,0,28403,26.0,,S,Mr.,McKane,92.0,1,Adult,1092.4226567605167,1,Southampton,23,26.0,
+399,0,2,Pain, Dr. Alfred,male,23,0,0,244278,10.5,,S,Dr.,Pain,46.0,1,Young Adult,23264.54927185784,1,Southampton,16,10.5,
+400,1,2,Trout, Mrs. William H (Jessie L),female,28,0,0,240929,12.65,,S,Mrs.,Trout,56.0,1,Young Adult,19045.755695054788,1,Southampton,32,12.65,
+401,1,3,Niskanen, Mr. Juha,male,39,0,0,STON/O 2. 3101289,7.925,,S,Mr.,Niskanen,117.0,1,Adult,0.0,1,Southampton,18,7.925,
+402,0,3,Adams, Mr. John,male,26,0,0,341826,8.05,,S,Mr.,Adams,78.0,1,Young Adult,42462.80439403181,1,Southampton,15,8.05,
+403,0,3,Jussila, Miss. Mari Aina,female,21,1,0,4137,9.825,,S,Miss.,Jussila,63.0,2,Young Adult,421.0682737218589,0,Southampton,24,9.825,
+404,0,3,Hakkarainen, Mr. Pekka Pietari,male,28,1,0,STON/O2. 3101279,15.85,,S,Mr.,Hakkarainen,84.0,2,Young Adult,0.0,0,Southampton,30,15.85,
+405,0,3,Oreskovic, Miss. Marija,female,20,0,0,315096,8.6625,,S,Miss.,Oreskovic,60.0,1,Young Adult,36374.67662374993,1,Southampton,23,8.6625,
+406,0,2,Gale, Mr. Shadrach,male,34,1,0,28664,21.0,,S,Mr.,Gale,68.0,2,Young Adult,1364.9517309753662,0,Southampton,18,21.0,
+407,0,3,Widegren, Mr. Carl/Charles Peter,male,51,0,0,347064,7.75,,S,Mr.,Widegren,153.0,1,None,44782.393829169254,1,Southampton,32,7.75,
+408,1,2,Richards, Master. William Rowe,male,3,1,1,29106,18.75,,S,Master.,Richards,6.0,3,Child,1552.3191720964417,0,Southampton,30,18.75,
+409,0,3,Birkeland, Mr. Hans Martin Monsen,male,21,0,0,312992,7.775,,S,Mr.,Birkeland,63.0,1,Young Adult,40256.154011377475,1,Southampton,33,7.775,
+410,0,3,Lefebre, Miss. Ida,female,,3,1,4133,25.4667,,S,Miss.,Lefebre,,5,,162.29029976781453,0,Southampton,18,25.4667,
+411,0,3,Sdycoff, Mr. Todor,male,,0,0,349222,7.8958,,S,Mr.,Sdycoff,,1,,44228.774501919375,1,Southampton,18,7.8958,
+412,0,3,Hart, Mr. Henry,male,,0,0,394140,6.8583,,Q,Mr.,Hart,,1,,57468.968302686815,1,Queenstown,15,6.8583,
+413,1,1,Minahan, Miss. Daisy E,female,33,1,0,19928,90.0,C78,Q,Miss.,Minahan,33.0,2,Young Adult,221.42219761975582,0,Queenstown,22,90.0,C
+414,0,2,Cunningham, Mr. Alfred Fleming,male,,0,0,239853,0.0,,S,Mr.,Cunningham,,1,,23985299999.999996,1,Southampton,30,0.0,
+415,1,3,Sundman, Mr. Johan Julian,male,44,0,0,STON/O 2. 3101269,7.925,,S,Mr.,Sundman,132.0,1,Adult,0.0,1,Southampton,25,7.925,
+416,0,3,Meek, Mrs. Thomas (Annie Louise Rowley),female,,0,0,343095,8.05,,S,Mrs.,Meek,,1,,42620.443949759065,1,Southampton,39,8.05,
+417,1,2,Drew, Mrs. James Vivian (Lulu Thorne Christian),female,34,1,1,28220,32.5,,S,Mrs.,Drew,68.0,3,Young Adult,868.3074251361768,0,Southampton,47,32.5,
+418,1,2,Silven, Miss. Lyyli Karoliina,female,18,0,2,250652,13.0,,S,Miss.,Silven,36.0,3,Young Adult,19280.908245455197,0,Southampton,29,13.0,
+419,0,2,Matthews, Mr. William John,male,30,0,0,28228,13.0,,S,Mr.,Matthews,60.0,1,Young Adult,2171.382945090042,1,Southampton,26,13.0,
+420,0,3,Van Impe, Miss. Catharina,female,10,0,2,345773,24.15,,S,Miss.,Van Impe,30.0,3,Child,14317.716638626653,0,Southampton,25,24.15,
+421,0,3,Gheorgheff, Mr. Stanio,male,,0,0,349254,7.8958,,C,Mr.,Gheorgheff,,1,,44232.82728434448,1,Cherbourg,22,7.8958,
+422,0,3,Charters, Mr. David,male,21,0,0,A/5. 13032,7.7333,,Q,Mr.,Charters,63.0,1,Young Adult,0.0,1,Queenstown,19,7.7333,
+423,0,3,Zimmerman, Mr. Leo,male,29,0,0,315082,7.875,,S,Mr.,Zimmerman,87.0,1,Young Adult,40010.36189160395,1,Southampton,18,7.875,
+424,0,3,Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren),female,28,1,1,347080,14.4,,S,Mrs.,Danbom,84.0,3,Young Adult,24102.76103974928,0,Southampton,54,14.4,
+425,0,3,Rosblom, Mr. Viktor Richard,male,18,1,1,370129,20.2125,,S,Mr.,Rosblom,54.0,3,Young Adult,18311.877149349588,0,Southampton,27,20.2125,
+426,0,3,Wiseman, Mr. Phillippe,male,,0,0,A/4. 34244,7.25,,S,Mr.,Wiseman,,1,,0.0,1,Southampton,22,7.25,
+427,1,2,Clarke, Mrs. Charles V (Ada Maria Winfield),female,28,1,0,2003,26.0,,S,Mrs.,Clarke,56.0,2,Young Adult,77.03843190829542,0,Southampton,43,26.0,
+428,1,2,Phillips, Miss. Kate Florence ("Mrs Kate Louise Phillips Marshall"),female,19,0,0,250655,26.0,,S,Miss.,Phillips,38.0,1,Young Adult,9640.573215164148,1,Southampton,67,26.0,
+429,0,3,Flynn, Mr. James,male,,0,0,364851,7.75,,Q,Mr.,Flynn,,1,,47077.48764195143,1,Queenstown,16,7.75,
+430,1,3,Pickard, Mr. Berk (Berk Trembisky),male,32,0,0,SOTON/O.Q. 392078,8.05,E10,S,Mr.,Pickard,96.0,1,Young Adult,0.0,1,Southampton,34,8.05,E
+431,1,1,Bjornstrom-Steffansson, Mr. Mauritz Hakan,male,28,0,0,110564,26.55,C52,S,Mr.,Bjornstrom-Steffansson,28.0,1,Young Adult,4164.367546377572,1,Southampton,41,26.55,C
+432,1,3,Thorneycroft, Mrs. Percival (Florence Kate White),female,,1,0,376564,16.1,,S,Mrs.,Thorneycroft,,2,,23389.053795618758,0,Southampton,49,16.1,
+433,1,2,Louch, Mrs. Charles Alexander (Alice Adelaide Slow),female,42,1,0,SC/AH 3085,26.0,,S,Mrs.,Louch,84.0,2,Adult,0.0,0,Southampton,51,26.0,
+434,0,3,Kallio, Mr. Nikolai Erland,male,17,0,0,STON/O 2. 3101274,7.125,,S,Mr.,Kallio,51.0,1,Child,0.0,1,Southampton,26,7.125,
+435,0,1,Silvey, Mr. William Baird,male,50,1,0,13507,55.9,E44,S,Mr.,Silvey,50.0,2,None,241.62786375172382,0,Southampton,25,55.9,E
+436,1,1,Carter, Miss. Lucile Polk,female,14,1,2,113760,120.0,B96 B98,S,Miss.,Carter,14.0,4,Child,947.9999210000066,0,Southampton,25,120.0,B
+437,0,3,Ford, Miss. Doolina Margaret "Daisy",female,21,2,2,W./C. 6608,34.375,,S,Miss.,Ford,63.0,5,Young Adult,0.0,0,Southampton,36,34.375,
+438,1,2,Richards, Mrs. Sidney (Emily Hocking),female,24,2,3,29106,18.75,,S,Mrs.,Richards,48.0,6,Young Adult,1552.3191720964417,0,Southampton,37,18.75,
+439,0,1,Fortune, Mr. Mark,male,64,1,4,19950,263.0,C23 C25 C27,S,Mr.,Fortune,64.0,6,None,75.85551042374486,0,Southampton,17,263.0,C
+440,0,2,Kvillner, Mr. Johan Henrik Johannesson,male,31,0,0,C.A. 18723,10.5,,S,Mr.,Kvillner,62.0,1,Young Adult,0.0,1,Southampton,38,10.5,
+441,1,2,Hart, Mrs. Benjamin (Esther Ada Bloomfield),female,45,1,1,F.C.C. 13529,26.25,,S,Mrs.,Hart,90.0,3,Adult,0.0,0,Southampton,43,26.25,
+442,0,3,Hampe, Mr. Leon,male,20,0,0,345769,9.5,,S,Mr.,Hampe,60.0,1,Young Adult,36396.69852979102,1,Southampton,15,9.5,
+443,0,3,Petterson, Mr. Johan Emil,male,25,1,0,347076,7.775,,S,Mr.,Petterson,75.0,2,Young Adult,44639.94258528285,0,Southampton,25,7.775,
+444,1,2,Reynaldo, Ms. Encarnacion,female,28,0,0,230434,13.0,,S,Ms.,Reynaldo,56.0,1,Young Adult,17725.678672554866,1,Southampton,25,13.0,
+445,1,3,Johannesen-Bratthammer, Mr. Bernt,male,,0,0,65306,8.1125,,S,Mr.,Johannesen-Bratthammer,,1,,8050.036301958333,1,Southampton,33,8.1125,
+446,1,1,Dodge, Master. Washington,male,4,0,2,33638,81.8583,A34,S,Master.,Dodge,4.0,3,Child,410.9295684213368,0,Southampton,25,81.8583,A
+447,1,2,Mellinger, Miss. Madeleine Violet,female,13,0,1,250644,19.5,,S,Miss.,Mellinger,26.0,2,Child,12853.531869983657,0,Southampton,33,19.5,
+448,1,1,Seward, Mr. Frederic Kimber,male,34,0,0,113794,26.55,,S,Mr.,Seward,34.0,1,Young Adult,4286.024751026459,1,Southampton,27,26.55,
+449,1,3,Baclini, Miss. Marie Catherine,female,5,2,1,2666,19.2583,,C,Miss.,Baclini,15.0,4,Child,138.4337462633014,0,Cherbourg,30,19.2583,
+450,1,1,Peuchen, Major. Arthur Godfrey,male,52,0,0,113786,30.5,C104,S,Major.,Peuchen,52.0,1,None,3730.6873014139996,1,Southampton,30,30.5,C
+451,0,2,West, Mr. Edwy Arthur,male,36,1,2,C.A. 34651,27.75,,S,Mr.,West,72.0,4,Adult,0.0,0,Southampton,21,27.75,
+452,0,3,Hagland, Mr. Ingvald Olai Olsen,male,,1,0,65303,19.9667,,S,Mr.,Hagland,,2,,3270.5939035524634,0,Southampton,31,19.9667,
+453,0,1,Foreman, Mr. Benjamin Laventall,male,30,0,0,113051,27.75,C111,C,Mr.,Foreman,30.0,1,Young Adult,4073.9084418347957,1,Cherbourg,31,27.75,C
+454,1,1,Goldenberg, Mr. Samuel L,male,49,1,0,17453,89.1042,C92,C,Mr.,Goldenberg,49.0,2,Adult,195.87177755125148,0,Cherbourg,24,89.1042,C
+455,0,3,Peduzzi, Mr. Joseph,male,,0,0,A/5 2817,8.05,,S,Mr.,Peduzzi,,1,,0.0,1,Southampton,19,8.05,
+456,1,3,Jalsevac, Mr. Ivan,male,29,0,0,349240,7.8958,,C,Mr.,Jalsevac,87.0,1,Young Adult,44231.054192033494,1,Cherbourg,18,7.8958,
+457,0,1,Millet, Mr. Francis Davis,male,65,0,0,13509,26.55,E38,S,Mr.,Millet,65.0,1,None,508.8133676785809,1,Southampton,25,26.55,E
+458,1,1,Kenyon, Mrs. Frederick R (Marion),female,,1,0,17464,51.8625,D21,S,Mrs.,Kenyon,,2,,336.73649809853015,0,Southampton,33,51.8625,D
+459,1,2,Toomey, Miss. Ellen,female,50,0,0,F.C.C. 13531,10.5,,S,Miss.,Toomey,100.0,1,None,0.0,1,Southampton,19,10.5,
+460,0,3,O'Connor, Mr. Maurice,male,,0,0,371060,7.75,,Q,Mr.,O'Connor,,1,,47878.647898518844,1,Queenstown,21,7.75,
+461,1,1,Anderson, Mr. Harry,male,48,0,0,19952,26.55,E12,S,Mr.,Anderson,48.0,1,Adult,751.4874758992557,1,Southampton,19,26.55,E
+462,0,3,Morley, Mr. William,male,34,0,0,364506,8.05,,S,Mr.,Morley,102.0,1,Young Adult,45280.192198519006,1,Southampton,19,8.05,
+463,0,1,Gee, Mr. Arthur H,male,47,0,0,111320,38.5,E63,S,Mr.,Gee,47.0,1,Adult,2891.427820408358,1,Southampton,17,38.5,E
+464,0,2,Milling, Mr. Jacob Christian,male,48,0,0,234360,13.0,,S,Mr.,Milling,96.0,1,Adult,18027.678440247353,1,Southampton,28,13.0,
+465,0,3,Maisner, Mr. Simon,male,,0,0,A/S 2816,8.05,,S,Mr.,Maisner,,1,,0.0,1,Southampton,18,8.05,
+466,0,3,Goncalves, Mr. Manuel Estanslas,male,38,0,0,SOTON/O.Q. 3101306,7.05,,S,Mr.,Goncalves,114.0,1,Adult,0.0,1,Southampton,31,7.05,
+467,0,2,Campbell, Mr. William,male,,0,0,239853,0.0,,S,Mr.,Campbell,,1,,23985299999.999996,1,Southampton,21,0.0,
+468,0,1,Smart, Mr. John Montgomery,male,56,0,0,113792,26.55,,S,Mr.,Smart,56.0,1,None,4285.949421487977,1,Southampton,26,26.55,
+469,0,3,Scanlan, Mr. James,male,,0,0,36209,7.725,,Q,Mr.,Scanlan,,1,,4687.243123309873,1,Queenstown,18,7.725,
+470,1,3,Baclini, Miss. Helene Barbara,female,0.75,2,1,2666,19.2583,,C,Miss.,Baclini,2.25,4,Child,138.4337462633014,0,Cherbourg,29,19.2583,
+471,0,3,Keefe, Mr. Arthur,male,,0,0,323592,7.25,,S,Mr.,Keefe,,1,,44633.317747147936,1,Southampton,17,7.25,
+472,0,3,Cacic, Mr. Luka,male,38,0,0,315089,8.6625,,S,Mr.,Cacic,114.0,1,Adult,36373.8685438747,1,Southampton,15,8.6625,
+473,1,2,West, Mrs. Edwy Arthur (Ada Mary Worth),female,33,1,2,C.A. 34651,27.75,,S,Mrs.,West,66.0,4,Young Adult,0.0,0,Southampton,39,27.75,
+474,1,2,Jerwan, Mrs. Amin S (Marie Marthe Thuillard),female,23,0,0,SC/AH Basle 541,13.7917,D,C,Mrs.,Jerwan,46.0,1,Young Adult,0.0,1,Cherbourg,44,13.7917,D
+475,0,3,Strandberg, Miss. Ida Sofia,female,22,0,0,7553,9.8375,,S,Miss.,Strandberg,66.0,1,Young Adult,767.7755854886043,1,Southampton,27,9.8375,
+476,0,1,Clifford, Mr. George Quincy,male,,0,0,110465,52.0,A14,S,Mr.,Clifford,,1,,2124.3265145525934,1,Southampton,27,52.0,A
+477,0,2,Renouf, Mr. Peter Henry,male,34,1,0,31027,21.0,,S,Mr.,Renouf,68.0,2,Young Adult,1477.4754869164349,0,Southampton,23,21.0,
+478,0,3,Braund, Mr. Lewis Richard,male,29,1,0,3460,7.0458,,S,Mr.,Braund,87.0,2,Young Adult,491.07199881915636,0,Southampton,25,7.0458,
+479,0,3,Karlsson, Mr. Nils August,male,22,0,0,350060,7.5208,,S,Mr.,Karlsson,66.0,1,Young Adult,46545.51836836724,1,Southampton,25,7.5208,
+480,1,3,Hirvonen, Miss. Hildur E,female,2,0,1,3101298,12.2875,,S,Miss.,Hirvonen,6.0,2,Child,252394.34189677163,0,Southampton,24,12.2875,
+481,0,3,Goodwin, Master. Harold Victor,male,9,5,2,CA 2144,46.9,,S,Master.,Goodwin,27.0,8,Child,0.0,0,Southampton,30,46.9,
+482,0,2,Frost, Mr. Anthony Wood "Archie",male,,0,0,239854,0.0,,S,Mr.,Frost,,1,,23985399999.999996,1,Southampton,32,0.0,
+483,0,3,Rouse, Mr. Richard Henry,male,50,0,0,A/5 3594,8.05,,S,Mr.,Rouse,150.0,1,None,0.0,1,Southampton,24,8.05,
+484,1,3,Turkula, Mrs. (Hedwig),female,63,0,0,4134,9.5875,,S,Mrs.,Turkula,189.0,1,None,431.1859909402963,1,Southampton,22,9.5875,
+485,1,1,Bishop, Mr. Dickinson H,male,25,1,0,11967,91.0792,B49,C,Mr.,Bishop,25.0,2,Young Adult,131.39112647112333,0,Cherbourg,23,91.0792,B
+486,0,3,Lefebre, Miss. Jeannie,female,,3,1,4133,25.4667,,S,Miss.,Lefebre,,5,,162.29029976781453,0,Southampton,22,25.4667,
+487,1,1,Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby),female,35,1,0,19943,90.0,C93,S,Mrs.,Hoyt,35.0,2,Adult,221.58886426790397,0,Southampton,47,90.0,C
+488,0,1,Kent, Mr. Edward Austin,male,58,0,0,11771,29.7,B37,C,Mr.,Kent,58.0,1,None,396.3298328855782,1,Cherbourg,23,29.7,B
+489,0,3,Somerton, Mr. Francis William,male,30,0,0,A.5. 18509,8.05,,S,Mr.,Somerton,90.0,1,Young Adult,0.0,1,Southampton,29,8.05,
+490,1,3,Coutts, Master. Eden Leslie "Neville",male,9,1,1,C.A. 37671,15.9,,S,Master.,Coutts,27.0,3,Child,0.0,0,Southampton,37,15.9,
+491,0,3,Hagland, Mr. Konrad Mathias Reiersen,male,,1,0,65304,19.9667,,S,Mr.,Hagland,,2,,3270.6439869162223,0,Southampton,36,19.9667,
+492,0,3,Windelov, Mr. Einar,male,21,0,0,SOTON/OQ 3101317,7.25,,S,Mr.,Windelov,63.0,1,Young Adult,0.0,1,Southampton,19,7.25,
+493,0,1,Molson, Mr. Harry Markland,male,55,0,0,113787,30.5,C30,S,Mr.,Molson,55.0,1,None,3730.720088288496,1,Southampton,26,30.5,C
+494,0,1,Artagaveytia, Mr. Ramon,male,71,0,0,PC 17609,49.5042,,C,Mr.,Artagaveytia,71.0,1,None,0.0,1,Cherbourg,23,49.5042,
+495,0,3,Stanley, Mr. Edward Roland,male,21,0,0,A/4 45380,8.05,,S,Mr.,Stanley,63.0,1,Young Adult,0.0,1,Southampton,26,8.05,
+496,0,3,Yousseff, Mr. Gerious,male,,0,0,2627,14.4583,,C,Mr.,Yousseff,,1,,181.69481772074332,1,Cherbourg,21,14.4583,
+497,1,1,Eustis, Miss. Elizabeth Mussey,female,54,1,0,36947,78.2667,D20,C,Miss.,Eustis,54.0,2,None,472.0653263692827,0,Cherbourg,30,78.2667,D
+498,0,3,Shellard, Mr. Frederick William,male,,0,0,C.A. 6212,15.1,,S,Mr.,Shellard,,1,,0.0,1,Southampton,31,15.1,
+499,0,1,Allison, Mrs. Hudson J C (Bessie Waldo Daniels),female,25,1,2,113781,151.55,C22 C26,S,Mrs.,Allison,25.0,4,Young Adult,750.7818706181542,0,Southampton,47,151.55,C
+500,0,3,Svensson, Mr. Olof,male,24,0,0,350035,7.7958,,S,Mr.,Svensson,72.0,1,Young Adult,44900.401626001665,1,Southampton,18,7.7958,
+501,0,3,Calic, Mr. Petar,male,17,0,0,315086,8.6625,,S,Mr.,Calic,51.0,1,Child,36373.52222392817,1,Southampton,16,8.6625,
+502,0,3,Canavan, Miss. Mary,female,21,0,0,364846,7.75,,Q,Miss.,Canavan,63.0,1,Young Adult,47076.84248149357,1,Queenstown,19,7.75,
+503,0,3,O'Sullivan, Miss. Bridget Mary,female,,0,0,330909,7.6292,,Q,Miss.,O'Sullivan,,1,,43373.95352860913,1,Queenstown,30,7.6292,
+504,0,3,Laitinen, Miss. Kristina Sofia,female,37,0,0,4135,9.5875,,S,Miss.,Laitinen,111.0,1,Adult,431.29029330869014,1,Southampton,30,9.5875,
+505,1,1,Maioni, Miss. Roberta,female,16,0,0,110152,86.5,B79,S,Miss.,Maioni,16.0,1,Child,1273.433378793829,1,Southampton,21,86.5,B
+506,0,1,Penasco y Castellana, Mr. Victor de Satode,male,18,1,0,PC 17758,108.9,C65,C,Mr.,Penasco y Castellana,18.0,2,Young Adult,0.0,0,Cherbourg,42,108.9,C
+507,1,2,Quick, Mrs. Frederick Charles (Jane Richards),female,33,0,2,26360,26.0,,S,Mrs.,Quick,66.0,3,Young Adult,1013.8457639054755,0,Southampton,45,26.0,
+508,1,1,Bradley, Mr. George ("George Arthur Brayton"),male,,0,0,111427,26.55,,S,Mr.,Bradley,,1,,4196.872242232677,1,Southampton,45,26.55,
+509,0,3,Olsen, Mr. Henry Margido,male,28,0,0,C 4001,22.525,,S,Mr.,Olsen,84.0,1,Young Adult,0.0,1,Southampton,24,22.525,
+510,1,3,Lang, Mr. Fang,male,26,0,0,1601,56.4958,,S,Mr.,Lang,78.0,1,Young Adult,28.338384740390477,1,Southampton,14,56.4958,
+511,1,3,Daly, Mr. Eugene Patrick,male,29,0,0,382651,7.75,,Q,Mr.,Daly,87.0,1,Young Adult,49374.25887192404,1,Queenstown,24,7.75,
+512,0,3,Webber, Mr. James,male,,0,0,SOTON/OQ 3101316,8.05,,S,Mr.,Webber,,1,,0.0,1,Southampton,17,8.05,
+513,1,1,McGough, Mr. James Robert,male,36,0,0,PC 17473,26.2875,E25,S,Mr.,McGough,36.0,1,Adult,0.0,1,Southampton,25,26.2875,E
+514,1,1,Rothschild, Mrs. Martin (Elizabeth L. Barrett),female,54,1,0,PC 17603,59.4,,C,Mrs.,Rothschild,54.0,2,None,0.0,0,Cherbourg,46,59.4,
+515,0,3,Coleff, Mr. Satio,male,24,0,0,349209,7.4958,,S,Mr.,Coleff,72.0,1,Young Adult,46587.226730666865,1,Southampton,17,7.4958,
+516,0,1,Walker, Mr. William Anderson,male,47,0,0,36967,34.0208,D46,S,Mr.,Walker,47.0,1,Adult,1086.599642983221,1,Southampton,28,34.0208,D
+517,1,2,Lemore, Mrs. (Amelia Milley),female,34,0,0,C.A. 34260,10.5,F33,S,Mrs.,Lemore,68.0,1,Young Adult,0.0,1,Southampton,28,10.5,F
+518,0,3,Ryan, Mr. Patrick,male,,0,0,371110,24.15,,Q,Mr.,Ryan,,1,,15366.867342912074,1,Queenstown,17,24.15,
+519,1,2,Angle, Mrs. William A (Florence "Mary" Agnes Hughes),female,36,1,0,226875,26.0,,S,Mrs.,Angle,72.0,2,Adult,8725.958182323777,0,Southampton,52,26.0,
+520,0,3,Pavlovic, Mr. Stefo,male,32,0,0,349242,7.8958,,S,Mr.,Pavlovic,96.0,1,Young Adult,44231.30749093507,1,Southampton,19,7.8958,
+521,1,1,Perreault, Miss. Anne,female,30,0,0,12749,93.5,B73,S,Miss.,Perreault,30.0,1,Young Adult,136.35292659326987,1,Southampton,21,93.5,B
+522,0,3,Vovk, Mr. Janko,male,22,0,0,349252,7.8958,,S,Mr.,Vovk,66.0,1,Young Adult,44232.57398544291,1,Southampton,15,7.8958,
+523,0,3,Lahoud, Mr. Sarkis,male,,0,0,2624,7.225,,C,Mr.,Lahoud,,1,,363.1828883281823,1,Cherbourg,18,7.225,
+524,1,1,Hippach, Mrs. Louis Albert (Ida Sophia Fischer),female,44,0,1,111361,57.9792,B18,C,Mrs.,Hippach,44.0,2,Adult,1920.7057150313017,0,Cherbourg,47,57.9792,B
+525,0,3,Kassem, Mr. Fared,male,,0,0,2700,7.2292,,C,Mr.,Kassem,,1,,373.48479294418064,1,Cherbourg,17,7.2292,
+526,0,3,Farrell, Mr. James,male,40.5,0,0,367232,7.75,,Q,Mr.,Farrell,121.5,1,Adult,47384.71305198316,1,Queenstown,18,7.75,
+527,1,2,Ridsdale, Miss. Lucy,female,50,0,0,W./C. 14258,10.5,,S,Miss.,Ridsdale,100.0,1,None,0.0,1,Southampton,20,10.5,
+528,0,1,Farthing, Mr. John,male,,0,0,PC 17483,221.7792,C95,S,Mr.,Farthing,,1,,0.0,1,Southampton,18,221.7792,C
+529,0,3,Salonen, Mr. Johan Werner,male,39,0,0,3101296,7.925,,S,Mr.,Salonen,117.0,1,Adult,391330.23175995995,1,Southampton,25,7.925,
+530,0,2,Hocking, Mr. Richard George,male,23,2,1,29104,11.5,,S,Mr.,Hocking,46.0,4,Young Adult,2530.7804080170367,0,Southampton,27,11.5,
+531,1,2,Quick, Miss. Phyllis May,female,2,1,1,26360,26.0,,S,Miss.,Quick,4.0,3,Child,1013.8457639054755,0,Southampton,24,26.0,
+532,0,3,Toufik, Mr. Nakli,male,,0,0,2641,7.2292,,C,Mr.,Toufik,,1,,365.32345857984484,1,Cherbourg,17,7.2292,
+533,0,3,Elias, Mr. Joseph Jr,male,17,1,1,2690,7.2292,,C,Mr.,Elias,51.0,3,Child,372.1015159332763,0,Cherbourg,20,7.2292,
+534,1,3,Peter, Mrs. Catherine (Catherine Rizk),female,,0,2,2668,22.3583,,C,Mrs.,Peter,,3,,119.32923373904379,0,Cherbourg,38,22.3583,
+535,0,3,Cacic, Miss. Marija,female,30,0,0,315084,8.6625,,S,Miss.,Cacic,90.0,1,Young Adult,36373.29134396382,1,Southampton,19,8.6625,
+536,1,2,Hart, Miss. Eva Miriam,female,7,0,2,F.C.C. 13529,26.25,,S,Miss.,Hart,14.0,3,Child,0.0,0,Southampton,22,26.25,
+537,0,1,Butt, Major. Archibald Willingham,male,45,0,0,113050,26.55,B38,S,Major.,Butt,45.0,1,Adult,4258.00216271105,1,Southampton,33,26.55,B
+538,1,1,LeRoy, Miss. Bertha,female,30,0,0,PC 17761,106.425,,C,Miss.,LeRoy,30.0,1,Young Adult,0.0,1,Cherbourg,19,106.425,
+539,0,3,Risien, Mr. Samuel Beard,male,,0,0,364498,14.5,,S,Mr.,Risien,,1,,25137.775767051196,1,Southampton,24,14.5,
+540,1,1,Frolicher, Miss. Hedwig Margaritha,female,22,0,2,13568,49.5,B39,C,Miss.,Frolicher,22.0,3,Young Adult,274.10095472707985,0,Cherbourg,34,49.5,B
+541,1,1,Crosby, Miss. Harriet R,female,36,0,2,WE/P 5735,71.0,B22,S,Miss.,Crosby,36.0,3,Adult,0.0,0,Southampton,23,71.0,B
+542,0,3,Andersson, Miss. Ingeborg Constanzia,female,9,4,2,347082,31.275,,S,Miss.,Andersson,27.0,7,Child,11097.742254918545,0,Southampton,36,31.275,
+543,0,3,Andersson, Miss. Sigrid Elisabeth,female,11,4,2,347082,31.275,,S,Miss.,Andersson,33.0,7,Child,11097.742254918545,0,Southampton,33,31.275,
+544,1,2,Beane, Mr. Edward,male,32,1,0,2908,26.0,,S,Mr.,Beane,64.0,2,Young Adult,111.84611082841892,0,Southampton,17,26.0,
+545,0,1,Douglas, Mr. Walter Donald,male,50,1,0,PC 17761,106.425,C86,C,Mr.,Douglas,50.0,2,None,0.0,0,Cherbourg,26,106.425,C
+546,0,1,Nicholson, Mr. Arthur Ernest,male,64,0,0,693,26.0,,S,Mr.,Nicholson,64.0,1,None,26.65383590237081,1,Southampton,28,26.0,
+547,1,2,Beane, Mrs. Edward (Ethel Clarke),female,19,1,0,2908,26.0,,S,Mrs.,Beane,38.0,2,Young Adult,111.84611082841892,0,Southampton,33,26.0,
+548,1,2,Padro y Manent, Mr. Julian,male,,0,0,SC/PARIS 2146,13.8625,,C,Mr.,Padro y Manent,,1,,0.0,1,Cherbourg,26,13.8625,
+549,0,3,Goldsmith, Mr. Frank John,male,33,1,1,363291,20.525,,S,Mr.,Goldsmith,99.0,3,Young Adult,17699.918294802294,0,Southampton,25,20.525,
+550,1,2,Davies, Master. John Morgan Jr,male,8,1,1,C.A. 33112,36.75,,S,Master.,Davies,16.0,3,Child,0.0,0,Southampton,30,36.75,
+551,1,1,Thayer, Mr. John Borland Jr,male,17,0,2,17421,110.8833,C70,C,Mr.,Thayer,17.0,3,Child,157.1111107704126,0,Cherbourg,27,110.8833,C
+552,0,2,Sharp, Mr. Percival James R,male,27,0,0,244358,26.0,,S,Mr.,Sharp,54.0,1,Young Adult,9398.381000622692,1,Southampton,27,26.0,
+553,0,3,O'Brien, Mr. Timothy,male,,0,0,330979,7.8292,,Q,Mr.,O'Brien,,1,,42274.89108096475,1,Queenstown,20,7.8292,
+554,1,3,Leeni, Mr. Fahim ("Philip Zenni"),male,22,0,0,2620,7.225,,C,Mr.,Leeni,66.0,1,Young Adult,362.6292558764625,1,Cherbourg,33,7.225,
+555,1,3,Ohman, Miss. Velin,female,22,0,0,347085,7.775,,S,Miss.,Ohman,66.0,1,Young Adult,44641.100140064125,1,Southampton,18,7.775,
+556,0,1,Wright, Mr. George,male,62,0,0,113807,26.55,,S,Mr.,Wright,62.0,1,None,4286.514393026594,1,Southampton,18,26.55,
+557,1,1,Duff Gordon, Lady. (Lucille Christiana Sutherland) ("Mrs Morgan"),female,48,1,0,11755,39.6,A16,C,Lady.,Duff Gordon,48.0,2,Adult,296.84335938299,0,Cherbourg,65,39.6,A
+558,0,1,Robbins, Mr. Victor,male,,0,0,PC 17757,227.525,,C,Mr.,Robbins,,1,,0.0,1,Cherbourg,19,227.525,
+559,1,1,Taussig, Mrs. Emil (Tillie Mandelbaum),female,39,1,1,110413,79.65,E67,S,Mrs.,Taussig,39.0,3,Adult,1386.2270701535379,0,Southampton,38,79.65,E
+560,1,3,de Messemaeker, Mrs. Guillaume Joseph (Emma),female,36,1,0,345572,17.4,,S,Mrs.,de Messemaeker,108.0,2,Adult,19860.448356064164,0,Southampton,44,17.4,
+561,0,3,Morrow, Mr. Thomas Rowan,male,,0,0,372622,7.75,,Q,Mr.,Morrow,,1,,48080.196025553516,1,Queenstown,24,7.75,
+562,0,3,Sivic, Mr. Husein,male,40,0,0,349251,7.8958,,S,Mr.,Sivic,120.0,1,Adult,44232.447335992125,1,Southampton,17,7.8958,
+563,0,2,Norman, Mr. Robert Douglas,male,28,0,0,218629,13.5,,S,Mr.,Norman,56.0,1,Young Adult,16194.728744645376,1,Southampton,26,13.5,
+564,0,3,Simmons, Mr. John,male,,0,0,SOTON/OQ 392082,8.05,,S,Mr.,Simmons,,1,,0.0,1,Southampton,17,8.05,
+565,0,3,Meanwell, Miss. (Marion Ogden),female,,0,0,SOTON/O.Q. 392087,8.05,,S,Miss.,Meanwell,,1,,0.0,1,Southampton,30,8.05,
+566,0,3,Davies, Mr. Alfred J,male,24,2,0,A/4 48871,24.15,,S,Mr.,Davies,72.0,3,Young Adult,0.0,0,Southampton,20,24.15,
+567,0,3,Stoytcheff, Mr. Ilia,male,19,0,0,349205,7.8958,,S,Mr.,Stoytcheff,57.0,1,Young Adult,44226.621461256036,1,Southampton,20,7.8958,
+568,0,3,Palsson, Mrs. Nils (Alma Cornelia Berglund),female,29,0,4,349909,21.075,,S,Mrs.,Palsson,87.0,5,Young Adult,16603.028895359956,0,Southampton,43,21.075,
+569,0,3,Doharr, Mr. Tannous,male,,0,0,2686,7.2292,,C,Mr.,Doharr,,1,,371.54820512891456,1,Cherbourg,19,7.2292,
+570,1,3,Jonsson, Mr. Carl,male,32,0,0,350417,7.8542,,S,Mr.,Jonsson,96.0,1,Young Adult,44615.1809029807,1,Southampton,17,7.8542,
+571,1,2,Harris, Mr. George,male,62,0,0,S.W./PP 752,10.5,,S,Mr.,Harris,124.0,1,None,0.0,1,Southampton,18,10.5,
+572,1,1,Appleton, Mrs. Edward Dale (Charlotte Lamson),female,53,2,0,11769,51.4792,C101,S,Mrs.,Appleton,53.0,3,None,228.61656190916682,0,Southampton,45,51.4792,C
+573,1,1,Flynn, Mr. John Irwin ("Irving"),male,36,0,0,PC 17474,26.3875,E25,S,Mr.,Flynn,36.0,1,Adult,0.0,1,Southampton,32,26.3875,E
+574,1,3,Kelly, Miss. Mary,female,,0,0,14312,7.75,,Q,Miss.,Kelly,,1,,1846.707294571233,1,Queenstown,17,7.75,
+575,0,3,Rush, Mr. Alfred George John,male,16,0,0,A/4. 20589,8.05,,S,Mr.,Rush,48.0,1,Child,0.0,1,Southampton,28,8.05,
+576,0,3,Patchett, Mr. George,male,19,0,0,358585,14.5,,S,Mr.,Patchett,57.0,1,Young Adult,24729.98294483935,1,Southampton,20,14.5,
+577,1,2,Garside, Miss. Ethel,female,34,0,0,243880,13.0,,S,Miss.,Garside,68.0,1,Young Adult,18759.98556924187,1,Southampton,20,13.0,
+578,1,1,Silvey, Mrs. William Baird (Alice Munger),female,39,1,0,13507,55.9,E44,S,Mrs.,Silvey,39.0,2,Adult,241.62786375172382,0,Southampton,41,55.9,E
+579,0,3,Caram, Mrs. Joseph (Maria Elias),female,,1,0,2689,14.4583,,C,Mrs.,Caram,,2,,185.98300907920776,0,Cherbourg,32,14.4583,
+580,1,3,Jussila, Mr. Eiriik,male,32,0,0,STON/O 2. 3101286,7.925,,S,Mr.,Jussila,96.0,1,Young Adult,0.0,1,Southampton,19,7.925,
+581,1,2,Christy, Miss. Julie Rachel,female,25,1,1,237789,30.0,,S,Miss.,Christy,50.0,3,Young Adult,7926.297357900881,0,Southampton,27,30.0,
+582,1,1,Thayer, Mrs. John Borland (Marian Longstreth Morris),female,39,1,1,17421,110.8833,C68,C,Mrs.,Thayer,39.0,3,Adult,157.1111107704126,0,Cherbourg,52,110.8833,C
+583,0,2,Downton, Mr. William James,male,54,0,0,28403,26.0,,S,Mr.,Downton,108.0,1,None,1092.4226567605167,1,Southampton,26,26.0,
+584,0,1,Ross, Mr. John Hugo,male,36,0,0,13049,40.125,A10,C,Mr.,Ross,36.0,1,Adult,325.2086416925503,1,Cherbourg,19,40.125,A
+585,0,3,Paulner, Mr. Uscher,male,,0,0,3411,8.7125,,C,Mr.,Paulner,,1,,391.50600687976254,1,Cherbourg,19,8.7125,
+586,1,1,Taussig, Miss. Ruth,female,18,0,2,110413,79.65,E68,S,Miss.,Taussig,18.0,3,Young Adult,1386.2270701535379,0,Southampton,19,79.65,E
+587,0,2,Jarvis, Mr. John Denzil,male,47,0,0,237565,15.0,,S,Mr.,Jarvis,94.0,1,Adult,15837.656108229261,1,Southampton,23,15.0,
+588,1,1,Frolicher-Stehli, Mr. Maxmillian,male,60,1,1,13567,79.2,B41,C,Mr.,Frolicher-Stehli,60.0,3,None,171.3004834216561,0,Cherbourg,32,79.2,B
+589,0,3,Gilinski, Mr. Eliezer,male,22,0,0,14973,8.05,,S,Mr.,Gilinski,66.0,1,Young Adult,1859.997689443864,1,Southampton,21,8.05,
+590,0,3,Murdlin, Mr. Joseph,male,,0,0,A./5. 3235,8.05,,S,Mr.,Murdlin,,1,,0.0,1,Southampton,19,8.05,
+591,0,3,Rintamaki, Mr. Matti,male,35,0,0,STON/O 2. 3101273,7.125,,S,Mr.,Rintamaki,105.0,1,Adult,0.0,1,Southampton,20,7.125,
+592,1,1,Stephenson, Mrs. Walter Bertram (Martha Eustis),female,52,1,0,36947,78.2667,D20,C,Mrs.,Stephenson,52.0,2,None,472.0653263692827,0,Cherbourg,47,78.2667,D
+593,0,3,Elsbury, Mr. William James,male,47,0,0,A/5 3902,7.25,,S,Mr.,Elsbury,141.0,1,Adult,0.0,1,Southampton,26,7.25,
+594,0,3,Bourke, Miss. Mary,female,,0,2,364848,7.75,,Q,Miss.,Bourke,,3,,47077.100545676716,0,Queenstown,18,7.75,
+595,0,2,Chapman, Mr. John Henry,male,37,1,0,SC/AH 29037,26.0,,S,Mr.,Chapman,74.0,2,Adult,0.0,0,Southampton,23,26.0,
+596,0,3,Van Impe, Mr. Jean Baptiste,male,36,1,1,345773,24.15,,S,Mr.,Van Impe,108.0,3,Adult,14317.716638626653,0,Southampton,27,24.15,
+597,1,2,Leitch, Miss. Jessie Wills,female,,0,0,248727,33.0,,S,Miss.,Leitch,,1,,7537.179534188019,1,Southampton,26,33.0,
+598,0,3,Johnson, Mr. Alfred,male,49,0,0,LINE,0.0,,S,Mr.,Johnson,147.0,1,Adult,0.0,1,Southampton,19,0.0,
+599,0,3,Boulos, Mr. Hanna,male,,0,0,2664,7.225,,C,Mr.,Boulos,,1,,368.7192128453802,1,Cherbourg,17,7.225,
+600,1,1,Duff Gordon, Sir. Cosmo Edmund ("Mr Morgan"),male,49,1,0,PC 17485,56.9292,A20,C,Sir.,Duff Gordon,49.0,2,Adult,0.0,0,Cherbourg,44,56.9292,A
+601,1,2,Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy),female,24,2,1,243847,27.0,,S,Mrs.,Jacobsohn,48.0,4,Young Adult,9031.36702541962,0,Southampton,51,27.0,
+602,0,3,Slabenoff, Mr. Petco,male,,0,0,349214,7.8958,,S,Mr.,Slabenoff,,1,,44227.76130631309,1,Southampton,20,7.8958,
+603,0,1,Harrington, Mr. Charles H,male,,0,0,113796,42.4,,S,Mr.,Harrington,,1,,2683.867291540733,1,Southampton,25,42.4,
+604,0,3,Torber, Mr. Ernst William,male,44,0,0,364511,8.05,,S,Mr.,Torber,132.0,1,Adult,45280.81331575986,1,Southampton,25,8.05,
+605,1,1,Homer, Mr. Harry ("Mr E Haven"),male,35,0,0,111426,26.55,,C,Mr.,Homer,35.0,1,Adult,4196.834577463436,1,Cherbourg,31,26.55,
+606,0,3,Lindell, Mr. Edvard Bengtsson,male,36,1,0,349910,15.55,,S,Mr.,Lindell,108.0,2,Adult,22502.23633296699,0,Southampton,29,15.55,
+607,0,3,Karaic, Mr. Milan,male,30,0,0,349246,7.8958,,S,Mr.,Karaic,90.0,1,Young Adult,44231.8140887382,1,Southampton,17,7.8958,
+608,1,1,Daniel, Mr. Robert Williams,male,27,0,0,113804,30.5,,S,Mr.,Daniel,27.0,1,Young Adult,3731.2774651549294,1,Southampton,27,30.5,
+609,1,2,Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue),female,22,1,2,SC/Paris 2123,41.5792,,C,Mrs.,Laroche,44.0,4,Young Adult,0.0,0,Cherbourg,53,41.5792,
+610,1,1,Shutes, Miss. Elizabeth W,female,40,0,0,PC 17582,153.4625,C125,S,Miss.,Shutes,40.0,1,Adult,0.0,1,Southampton,25,153.4625,C
+611,0,3,Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren),female,39,1,5,347082,31.275,,S,Mrs.,Andersson,117.0,7,Adult,11097.742254918545,0,Southampton,57,31.275,
+612,0,3,Jardin, Mr. Jose Neto,male,,0,0,SOTON/O.Q. 3101305,7.05,,S,Mr.,Jardin,,1,,0.0,1,Southampton,21,7.05,
+613,1,3,Murphy, Miss. Margaret Jane,female,,1,0,367230,15.5,,Q,Miss.,Murphy,,2,,23692.242779198208,0,Queenstown,27,15.5,
+614,0,3,Horgan, Mr. John,male,,0,0,370377,7.75,,Q,Mr.,Horgan,,1,,47790.51897997551,1,Queenstown,16,7.75,
+615,0,3,Brocklebank, Mr. William Alfred,male,35,0,0,364512,8.05,,S,Mr.,Brocklebank,105.0,1,Adult,45280.937539208026,1,Southampton,31,8.05,
+616,1,2,Herman, Miss. Alice,female,24,1,2,220845,65.0,,S,Miss.,Herman,48.0,4,Young Adult,3397.6148619054056,0,Southampton,19,65.0,
+617,0,3,Danbom, Mr. Ernst Gilbert,male,34,1,1,347080,14.4,,S,Mr.,Danbom,102.0,3,Young Adult,24102.76103974928,0,Southampton,25,14.4,
+618,0,3,Lobb, Mrs. William Arthur (Cordelia K Stanlick),female,26,1,0,A/5. 3336,16.1,,S,Mrs.,Lobb,78.0,2,Young Adult,0.0,0,Southampton,47,16.1,
+619,1,2,Becker, Miss. Marion Louise,female,4,2,1,230136,39.0,F4,S,Miss.,Becker,8.0,4,Child,5900.921563866265,0,Southampton,27,39.0,F
+620,0,2,Gavey, Mr. Lawrence,male,26,0,0,31028,10.5,,S,Mr.,Gavey,52.0,1,Young Adult,2955.0448047192335,1,Southampton,19,10.5,
+621,0,3,Yasbeck, Mr. Antoni,male,27,1,0,2659,14.4542,,C,Mr.,Yasbeck,81.0,2,Young Adult,183.96024410880983,0,Cherbourg,19,14.4542,
+622,1,1,Kimball, Mr. Edwin Nelson Jr,male,42,1,0,11753,52.5542,D19,S,Mr.,Kimball,42.0,2,Adult,223.6357467841301,0,Southampton,28,52.5542,D
+623,1,3,Nakid, Mr. Sahid,male,20,1,1,2653,15.7417,,C,Mr.,Nakid,60.0,3,Young Adult,168.53315173510376,0,Cherbourg,16,15.7417,
+624,0,3,Hansen, Mr. Henry Damsgaard,male,21,0,0,350029,7.8542,,S,Mr.,Hansen,63.0,1,Young Adult,44565.78064502987,1,Southampton,27,7.8542,
+625,0,3,Bowen, Mr. David John "Dai",male,21,0,0,54636,16.1,,S,Mr.,Bowen,63.0,1,Young Adult,3393.538264883065,1,Southampton,27,16.1,
+626,0,1,Sutton, Mr. Frederick,male,61,0,0,36963,32.3208,D50,S,Mr.,Sutton,61.0,1,None,1143.628516735812,1,Southampton,21,32.3208,D
+627,0,2,Kirkland, Rev. Charles Leonard,male,57,0,0,219533,12.35,,Q,Rev.,Kirkland,114.0,1,None,17775.937023532777,1,Queenstown,30,12.35,
+628,1,1,Longley, Miss. Gretchen Fiske,female,21,0,0,13502,77.9583,D9,S,Miss.,Longley,21.0,1,Young Adult,173.195134681601,1,Southampton,29,77.9583,D
+629,0,3,Bostandyeff, Mr. Guentcho,male,26,0,0,349224,7.8958,,S,Mr.,Bostandyeff,78.0,1,Young Adult,44229.02780082094,1,Southampton,25,7.8958,
+630,0,3,O'Connell, Mr. Patrick D,male,,0,0,334912,7.7333,,Q,Mr.,O'Connell,,1,,43307.71687673196,1,Queenstown,24,7.7333,
+631,1,1,Barkworth, Mr. Algernon Henry Wilson,male,80,0,0,27042,30.0,A23,S,Mr.,Barkworth,80.0,1,None,901.3996995334335,1,Southampton,36,30.0,A
+632,0,3,Lundahl, Mr. Johan Svensson,male,51,0,0,347743,7.0542,,S,Mr.,Lundahl,153.0,1,None,49295.810586869404,1,Southampton,27,7.0542,
+633,1,1,Stahelin-Maeglin, Dr. Max,male,32,0,0,13214,30.5,B50,C,Dr.,Stahelin-Maeglin,32.0,1,Young Adult,433.24575959155425,1,Cherbourg,25,30.5,B
+634,0,1,Parr, Mr. William Henry Marsh,male,,0,0,112052,0.0,,S,Mr.,Parr,,1,,11205200000.0,1,Southampton,29,0.0,
+635,0,3,Skoog, Miss. Mabel,female,9,3,2,347088,27.9,,S,Miss.,Skoog,27.0,6,Child,12440.425648592958,0,Southampton,18,27.9,
+636,1,2,Davis, Miss. Mary,female,28,0,0,237668,13.0,,S,Miss.,Davis,56.0,1,Young Adult,18282.1397829694,1,Southampton,17,13.0,
+637,0,3,Leinonen, Mr. Antti Gustaf,male,32,0,0,STON/O 2. 3101292,7.925,,S,Mr.,Leinonen,96.0,1,Young Adult,0.0,1,Southampton,26,7.925,
+638,0,2,Collyer, Mr. Harvey,male,31,1,1,C.A. 31921,26.25,,S,Mr.,Collyer,62.0,3,Young Adult,0.0,0,Southampton,19,26.25,
+639,0,3,Panula, Mrs. Juha (Maria Emilia Ojala),female,41,0,5,3101295,39.6875,,S,Mrs.,Panula,123.0,6,Adult,78142.84645219616,0,Southampton,38,39.6875,
+640,0,3,Thorneycroft, Mr. Percival,male,,1,0,376564,16.1,,S,Mr.,Thorneycroft,,2,,23389.053795618758,0,Southampton,26,16.1,
+641,0,3,Jensen, Mr. Hans Peder,male,20,0,0,350050,7.8542,,S,Mr.,Jensen,60.0,1,Young Adult,44568.45437033133,1,Southampton,22,7.8542,
+642,1,1,Sagesser, Mlle. Emma,female,24,0,0,PC 17477,69.3,B35,C,Mlle.,Sagesser,24.0,1,Young Adult,0.0,1,Cherbourg,20,69.3,B
+643,0,3,Skoog, Miss. Margit Elizabeth,female,2,3,2,347088,27.9,,S,Miss.,Skoog,6.0,6,Child,12440.425648592958,0,Southampton,29,27.9,
+644,1,3,Foo, Mr. Choong,male,,0,0,1601,56.4958,,S,Mr.,Foo,,1,,28.338384740390477,1,Southampton,15,56.4958,
+645,1,3,Baclini, Miss. Eugenie,female,0.75,2,1,2666,19.2583,,C,Miss.,Baclini,2.25,4,Child,138.4337462633014,0,Cherbourg,22,19.2583,
+646,1,1,Harper, Mr. Henry Sleeper,male,48,1,0,PC 17572,76.7292,D33,C,Mr.,Harper,48.0,2,Adult,0.0,0,Cherbourg,25,76.7292,D
+647,0,3,Cor, Mr. Liudevit,male,19,0,0,349231,7.8958,,S,Mr.,Cor,57.0,1,Young Adult,44229.91434697643,1,Southampton,17,7.8958,
+648,1,1,Simonius-Blumer, Col. Oberst Alfons,male,56,0,0,13213,35.5,A26,C,Col.,Simonius-Blumer,56.0,1,None,372.19707825434415,1,Cherbourg,35,35.5,A
+649,0,3,Willey, Mr. Edward,male,,0,0,S.O./P.P. 751,7.55,,S,Mr.,Willey,,1,,0.0,1,Southampton,18,7.55,
+650,1,3,Stanley, Miss. Amy Zillah Elsie,female,23,0,0,CA. 2314,7.55,,S,Miss.,Stanley,69.0,1,Young Adult,0.0,1,Southampton,31,7.55,
+651,0,3,Mitkoff, Mr. Mito,male,,0,0,349221,7.8958,,S,Mr.,Mitkoff,,1,,44228.64785246859,1,Southampton,17,7.8958,
+652,1,2,Doling, Miss. Elsie,female,18,0,1,231919,23.0,,S,Miss.,Doling,36.0,2,Young Adult,10083.430398508523,0,Southampton,19,23.0,
+653,0,3,Kalvik, Mr. Johannes Halvorsen,male,21,0,0,8475,8.4333,,S,Mr.,Kalvik,63.0,1,Young Adult,1004.9434919385154,1,Southampton,30,8.4333,
+654,1,3,O'Leary, Miss. Hanora "Norah",female,,0,0,330919,7.8292,,Q,Miss.,O'Leary,,1,,42267.22747250361,1,Queenstown,29,7.8292,
+655,0,3,Hegarty, Miss. Hanora "Nora",female,18,0,0,365226,6.75,,Q,Miss.,Hegarty,54.0,1,Young Adult,54107.475396332746,1,Queenstown,28,6.75,
+656,0,2,Hickman, Mr. Leonard Mark,male,24,2,0,S.O.C. 14879,73.5,,S,Mr.,Hickman,48.0,3,Young Adult,0.0,0,Southampton,25,73.5,
+657,0,3,Radeff, Mr. Alexander,male,,0,0,349223,7.8958,,S,Mr.,Radeff,,1,,44228.901151370155,1,Southampton,21,7.8958,
+658,0,3,Bourke, Mrs. John (Catherine),female,32,1,1,364849,15.5,,Q,Mrs.,Bourke,96.0,3,Young Adult,23538.629975077434,0,Queenstown,29,15.5,
+659,0,2,Eitemiller, Mr. George Floyd,male,23,0,0,29751,13.0,,S,Mr.,Eitemiller,46.0,1,Young Adult,2288.5367011256144,1,Southampton,28,13.0,
+660,0,1,Newell, Mr. Arthur Webster,male,58,0,2,35273,113.275,D48,C,Mr.,Newell,58.0,3,None,311.39260106885,0,Cherbourg,26,113.275,D
+661,1,1,Frauenthal, Dr. Henry William,male,50,2,0,PC 17611,133.65,,S,Dr.,Frauenthal,50.0,3,None,0.0,0,Southampton,29,133.65,
+662,0,3,Badt, Mr. Mohamed,male,40,0,0,2623,7.225,,C,Mr.,Badt,120.0,1,Adult,363.04448021525235,1,Cherbourg,17,7.225,
+663,0,1,Colley, Mr. Edward Pomeroy,male,47,0,0,5727,25.5875,E58,S,Mr.,Colley,47.0,1,Adult,223.82013724664887,1,Southampton,26,25.5875,E
+664,0,3,Coleff, Mr. Peju,male,36,0,0,349210,7.4958,,S,Mr.,Coleff,108.0,1,Adult,46587.36013853073,1,Southampton,16,7.4958,
+665,1,3,Lindqvist, Mr. Eino William,male,20,1,0,STON/O 2. 3101285,7.925,,S,Mr.,Lindqvist,60.0,2,Young Adult,0.0,0,Southampton,27,7.925,
+666,0,2,Hickman, Mr. Lewis,male,32,2,0,S.O.C. 14879,73.5,,S,Mr.,Hickman,64.0,3,Young Adult,0.0,0,Southampton,18,73.5,
+667,0,2,Butler, Mr. Reginald Fenton,male,25,0,0,234686,13.0,,S,Mr.,Butler,50.0,1,Young Adult,18052.75534403435,1,Southampton,27,13.0,
+668,0,3,Rommetvedt, Mr. Knud Paust,male,,0,0,312993,7.775,,S,Mr.,Rommetvedt,,1,,40256.2826285754,1,Southampton,26,7.775,
+669,0,3,Cook, Mr. Jacob,male,43,0,0,A/5 3536,8.05,,S,Mr.,Cook,129.0,1,Adult,0.0,1,Southampton,15,8.05,
+670,1,1,Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright),female,,1,0,19996,52.0,C126,S,Mrs.,Taylor,,2,,384.53838758877157,0,Southampton,49,52.0,C
+671,1,2,Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford),female,40,1,1,29750,39.0,,S,Mrs.,Brown,80.0,3,Adult,762.8203172255596,0,Southampton,61,39.0,
+672,0,1,Davidson, Mr. Thornton,male,31,1,0,F.C. 12750,52.0,B71,S,Mr.,Davidson,31.0,2,Young Adult,0.0,0,Southampton,22,52.0,B
+673,0,2,Mitchell, Mr. Henry Michael,male,70,0,0,C.A. 24580,10.5,,S,Mr.,Mitchell,140.0,1,None,0.0,1,Southampton,27,10.5,
+674,1,2,Wilhelms, Mr. Charles,male,31,0,0,244270,13.0,,S,Mr.,Wilhelms,62.0,1,Young Adult,18789.985546164964,1,Southampton,21,13.0,
+675,0,2,Watson, Mr. Ennis Hastings,male,,0,0,239856,0.0,,S,Mr.,Watson,,1,,23985599999.999996,1,Southampton,26,0.0,
+676,0,3,Edvardsson, Mr. Gustaf Hjalmar,male,18,0,0,349912,7.775,,S,Mr.,Edvardsson,54.0,1,Young Adult,45004.70095858398,1,Southampton,30,7.775,
+677,0,3,Sawyer, Mr. Frederick Charles,male,24.5,0,0,342826,8.05,,S,Mr.,Sawyer,73.5,1,Young Adult,42587.02784220144,1,Southampton,29,8.05,
+678,1,3,Turja, Miss. Anna Sofia,female,18,0,0,4138,9.8417,,S,Miss.,Turja,54.0,1,Young Adult,420.4553883420666,1,Southampton,23,9.8417,
+679,0,3,Goodwin, Mrs. Frederick (Augusta Tyler),female,43,1,6,CA 2144,46.9,,S,Mrs.,Goodwin,129.0,8,Adult,0.0,0,Southampton,39,46.9,
+680,1,1,Cardeza, Mr. Thomas Drake Martinez,male,36,0,1,PC 17755,512.3292,B51 B53 B55,C,Mr.,Cardeza,36.0,2,Adult,0.0,0,Cherbourg,34,512.3292,B
+681,0,3,Peters, Miss. Katie,female,,0,0,330935,8.1375,,Q,Miss.,Peters,,1,,40667.84556946781,1,Queenstown,19,8.1375,
+682,1,1,Hassab, Mr. Hammad,male,27,0,0,PC 17572,76.7292,D49,C,Mr.,Hassab,27.0,1,Young Adult,0.0,1,Cherbourg,18,76.7292,D
+683,0,3,Olsvigen, Mr. Thor Anderson,male,20,0,0,6563,9.225,,S,Mr.,Olsvigen,60.0,1,Young Adult,711.4355431593028,1,Southampton,27,9.225,
+684,0,3,Goodwin, Mr. Charles Edward,male,14,5,2,CA 2144,46.9,,S,Mr.,Goodwin,42.0,8,Child,0.0,0,Southampton,27,46.9,
+685,0,2,Brown, Mr. Thomas William Solomon,male,60,1,1,29750,39.0,,S,Mr.,Brown,120.0,3,None,762.8203172255596,0,Southampton,33,39.0,
+686,0,2,Laroche, Mr. Joseph Philippe Lemercier,male,25,1,2,SC/Paris 2123,41.5792,,C,Mr.,Laroche,50.0,4,Young Adult,0.0,0,Cherbourg,38,41.5792,
+687,0,3,Panula, Mr. Jaako Arnold,male,14,4,1,3101295,39.6875,,S,Mr.,Panula,42.0,6,Child,78142.84645219616,0,Southampton,24,39.6875,
+688,0,3,Dakic, Mr. Branko,male,19,0,0,349228,10.1708,,S,Mr.,Dakic,57.0,1,Young Adult,34336.30163182677,1,Southampton,17,10.1708,
+689,0,3,Fischer, Mr. Eberhard Thelander,male,18,0,0,350036,7.7958,,S,Mr.,Fischer,54.0,1,Young Adult,44900.52990003605,1,Southampton,31,7.7958,
+690,1,1,Madill, Miss. Georgette Alexandra,female,15,0,1,24160,211.3375,B5,S,Miss.,Madill,15.0,2,Child,114.31950721857184,0,Southampton,33,211.3375,B
+691,1,1,Dick, Mr. Albert Adrian,male,31,1,0,17474,57.0,B20,S,Mr.,Dick,31.0,2,Young Adult,306.56134972607896,0,Southampton,23,57.0,B
+692,1,3,Karun, Miss. Manca,female,4,0,1,349256,13.4167,,C,Miss.,Karun,12.0,2,Child,26031.419028957174,0,Cherbourg,18,13.4167,
+693,1,3,Lam, Mr. Ali,male,,0,0,1601,56.4958,,S,Mr.,Lam,,1,,28.338384740390477,1,Southampton,12,56.4958,
+694,0,3,Saad, Mr. Khalil,male,25,0,0,2672,7.225,,C,Mr.,Saad,75.0,1,Young Adult,369.82647774881974,1,Cherbourg,16,7.225,
+695,0,1,Weir, Col. John,male,60,0,0,113800,26.55,,S,Col.,Weir,60.0,1,None,4286.250739641906,1,Southampton,15,26.55,
+696,0,2,Chapman, Mr. Charles Henry,male,52,0,0,248731,13.5,,S,Mr.,Chapman,104.0,1,None,18424.50487073713,1,Southampton,26,13.5,
+697,0,3,Kelly, Mr. James,male,44,0,0,363592,8.05,,S,Mr.,Kelly,132.0,1,Adult,45166.651966891965,1,Southampton,16,8.05,
+698,1,3,Mullens, Miss. Katherine "Katie",female,,0,0,35852,7.7333,,Q,Miss.,Mullens,,1,,4636.048470835904,1,Queenstown,32,7.7333,
+699,0,1,Thayer, Mr. John Borland,male,49,1,1,17421,110.8833,C68,C,Mr.,Thayer,49.0,3,Adult,157.1111107704126,0,Cherbourg,24,110.8833,C
+700,0,3,Humblen, Mr. Adolf Mathias Nicolai Olsen,male,42,0,0,348121,7.65,F G63,S,Mr.,Humblen,126.0,1,Adult,45505.95358698878,1,Southampton,40,7.65,F
+701,1,1,Astor, Mrs. John Jacob (Madeleine Talmadge Force),female,18,1,0,PC 17757,227.525,C62 C64,C,Mrs.,Astor,18.0,2,Young Adult,0.0,0,Cherbourg,49,227.525,C
+702,1,1,Silverthorne, Mr. Spencer Victor,male,35,0,0,PC 17475,26.2875,E24,S,Mr.,Silverthorne,35.0,1,Adult,0.0,1,Southampton,32,26.2875,E
+703,0,3,Barbara, Miss. Saiide,female,18,0,1,2691,14.4542,,C,Miss.,Barbara,54.0,2,Young Adult,186.1741319657041,0,Cherbourg,21,14.4542,
+704,0,3,Gallagher, Mr. Martin,male,25,0,0,36864,7.7417,,Q,Mr.,Gallagher,75.0,1,Young Adult,4761.7386856392195,1,Queenstown,21,7.7417,
+705,0,3,Hansen, Mr. Henrik Juul,male,26,1,0,350025,7.8542,,S,Mr.,Hansen,78.0,2,Young Adult,44565.27136402007,0,Southampton,23,7.8542,
+706,0,2,Morley, Mr. Henry Samuel ("Mr Henry Marshall"),male,39,0,0,250655,26.0,,S,Mr.,Morley,78.0,1,Adult,9640.573215164148,1,Southampton,46,26.0,
+707,1,2,Kelly, Mrs. Florence "Fannie",female,45,0,0,223596,13.5,,S,Mrs.,Kelly,90.0,1,Adult,16562.65439803378,1,Southampton,29,13.5,
+708,1,1,Calderhead, Mr. Edward Pennington,male,42,0,0,PC 17476,26.2875,E24,S,Mr.,Calderhead,42.0,1,Adult,0.0,1,Southampton,33,26.2875,E
+709,1,1,Cleaver, Miss. Alice,female,22,0,0,113781,151.55,,S,Miss.,Cleaver,22.0,1,Young Adult,750.7818706181542,1,Southampton,20,151.55,
+710,1,3,Moubarek, Master. Halim Gonios ("William George"),male,,1,1,2661,15.2458,,C,Master.,Moubarek,,3,,174.53975879274373,0,Cherbourg,49,15.2458,
+711,1,1,Mayne, Mlle. Berthe Antonine ("Mrs de Villiers"),female,24,0,0,PC 17482,49.5042,C90,C,Mlle.,Mayne,24.0,1,Young Adult,0.0,1,Cherbourg,48,49.5042,C
+712,0,1,Klaber, Mr. Herman,male,,0,0,113028,26.55,C124,S,Mr.,Klaber,,1,,4257.173537787745,1,Southampton,18,26.55,C
+713,1,1,Taylor, Mr. Elmer Zebley,male,48,1,0,19996,52.0,C126,S,Mr.,Taylor,48.0,2,Adult,384.53838758877157,0,Southampton,24,52.0,C
+714,0,3,Larsson, Mr. August Viktor,male,29,0,0,7545,9.4833,,S,Mr.,Larsson,87.0,1,Young Adult,795.608284449206,1,Southampton,26,9.4833,
+715,0,2,Greenberg, Mr. Samuel,male,52,0,0,250647,13.0,,S,Mr.,Greenberg,104.0,1,None,19280.52363036644,1,Southampton,21,13.0,
+716,0,3,Soholt, Mr. Peter Andreas Lauritz Andersen,male,19,0,0,348124,7.65,F G73,S,Mr.,Soholt,57.0,1,Young Adult,45506.3457433389,1,Southampton,42,7.65,F
+717,1,1,Endres, Miss. Caroline Louise,female,38,0,0,PC 17757,227.525,C45,C,Miss.,Endres,38.0,1,Adult,0.0,1,Cherbourg,29,227.525,C
+718,1,2,Troutt, Miss. Edwina Celia "Winnie",female,27,0,0,34218,10.5,E101,S,Miss.,Troutt,54.0,1,Young Adult,3258.8540391866295,1,Southampton,35,10.5,E
+719,0,3,McEvoy, Mr. Michael,male,,0,0,36568,15.5,,Q,Mr.,McEvoy,,1,,2359.2242843714293,1,Queenstown,19,15.5,
+720,0,3,Johnson, Mr. Malkolm Joackim,male,33,0,0,347062,7.775,,S,Mr.,Johnson,99.0,1,Young Adult,44638.14194451197,1,Southampton,28,7.775,
+721,1,2,Harper, Miss. Annie Jessie "Nina",female,6,0,1,248727,33.0,,S,Miss.,Harper,12.0,2,Child,7537.179534188019,0,Southampton,33,33.0,
+722,0,3,Jensen, Mr. Svend Lauritz,male,17,1,0,350048,7.0542,,S,Mr.,Jensen,51.0,2,Child,49622.56581530746,0,Southampton,25,7.0542,
+723,0,2,Gillespie, Mr. William Henry,male,34,0,0,12233,13.0,,S,Mr.,Gillespie,68.0,1,Young Adult,940.999276154403,1,Southampton,28,13.0,
+724,0,2,Hodges, Mr. Henry Price,male,50,0,0,250643,13.0,,S,Mr.,Hodges,100.0,1,None,19280.215938295434,1,Southampton,23,13.0,
+725,1,1,Chambers, Mr. Norman Campbell,male,27,1,0,113806,53.1,E8,S,Mr.,Chambers,27.0,2,Young Adult,2143.2387677516444,0,Southampton,29,53.1,E
+726,0,3,Oreskovic, Mr. Luka,male,20,0,0,315094,8.6625,,S,Mr.,Oreskovic,60.0,1,Young Adult,36374.44574378558,1,Southampton,19,8.6625,
+727,1,2,Renouf, Mrs. Peter Henry (Lillian Jefferys),female,30,3,0,31027,21.0,,S,Mrs.,Renouf,60.0,4,Young Adult,1477.4754869164349,0,Southampton,43,21.0,
+728,1,3,Mannion, Miss. Margareth,female,,0,0,36866,7.7375,,Q,Miss.,Mannion,,1,,4764.58188745475,1,Queenstown,24,7.7375,
+729,0,2,Bryhl, Mr. Kurt Arnold Gottfrid,male,25,1,0,236853,26.0,,S,Mr.,Bryhl,50.0,2,Young Adult,9109.727265489513,0,Southampton,31,26.0,
+730,0,3,Ilmakangas, Miss. Pieta Sofia,female,25,1,0,STON/O2. 3101271,7.925,,S,Miss.,Ilmakangas,75.0,2,Young Adult,0.0,0,Southampton,29,7.925,
+731,1,1,Allen, Miss. Elisabeth Walton,female,29,0,0,24160,211.3375,B5,S,Miss.,Allen,29.0,1,Young Adult,114.31950721857184,1,Southampton,29,211.3375,B
+732,0,3,Hassan, Mr. Houssein G N,male,11,0,0,2699,18.7875,,C,Mr.,Hassan,33.0,1,Child,143.65927150537777,1,Cherbourg,24,18.7875,
+733,0,2,Knight, Mr. Robert J,male,,0,0,239855,0.0,,S,Mr.,Knight,,1,,23985499999.999996,1,Southampton,20,0.0,
+734,0,2,Berriman, Mr. William John,male,23,0,0,28425,13.0,,S,Mr.,Berriman,46.0,1,Young Adult,2186.5367795870925,1,Southampton,26,13.0,
+735,0,2,Troupiansky, Mr. Moses Aaron,male,23,0,0,233639,13.0,,S,Mr.,Troupiansky,46.0,1,Young Adult,17972.216944448504,1,Southampton,28,13.0,
+736,0,3,Williams, Mr. Leslie,male,28.5,0,0,54636,16.1,,S,Mr.,Williams,85.5,1,Young Adult,3393.538264883065,1,Southampton,20,16.1,
+737,0,3,Ford, Mrs. Edward (Margaret Ann Watson),female,48,1,3,W./C. 6608,34.375,,S,Mrs.,Ford,144.0,5,Adult,0.0,0,Southampton,39,34.375,
+738,1,1,Lesurer, Mr. Gustave J,male,35,0,0,PC 17755,512.3292,B101,C,Mr.,Lesurer,35.0,1,Adult,0.0,1,Cherbourg,22,512.3292,B
+739,0,3,Ivanoff, Mr. Kanio,male,,0,0,349201,7.8958,,S,Mr.,Ivanoff,,1,,44226.114863452894,1,Southampton,18,7.8958,
+740,0,3,Nankoff, Mr. Minko,male,,0,0,349218,7.8958,,S,Mr.,Nankoff,,1,,44228.267904116234,1,Southampton,18,7.8958,
+741,1,1,Hawksford, Mr. Walter James,male,,0,0,16988,30.0,D45,S,Mr.,Hawksford,,1,,566.2664779111741,1,Southampton,27,30.0,D
+742,0,1,Cavendish, Mr. Tyrell William,male,36,1,0,19877,78.85,C46,S,Mr.,Cavendish,36.0,2,Adult,252.08620772527487,0,Southampton,29,78.85,C
+743,1,1,Ryerson, Miss. Susan Parker "Suzette",female,21,2,2,PC 17608,262.375,B57 B59 B63 B66,C,Miss.,Ryerson,21.0,5,Young Adult,0.0,0,Cherbourg,37,262.375,B
+744,0,3,McNamee, Mr. Neal,male,24,1,0,376566,16.1,,S,Mr.,McNamee,72.0,2,Young Adult,23389.178019144085,0,Southampton,17,16.1,
+745,1,3,Stranden, Mr. Juho,male,31,0,0,STON/O 2. 3101288,7.925,,S,Mr.,Stranden,93.0,1,Young Adult,0.0,1,Southampton,18,7.925,
+746,0,1,Crosby, Capt. Edward Gifford,male,70,1,1,WE/P 5735,71.0,B22,S,Capt.,Crosby,70.0,3,None,0.0,0,Southampton,28,71.0,B
+747,0,3,Abbott, Mr. Rossmore Edward,male,16,1,1,C.A. 2673,20.25,,S,Mr.,Abbott,48.0,3,Child,0.0,0,Southampton,27,20.25,
+748,1,2,Sinkkonen, Miss. Anna,female,30,0,0,250648,13.0,,S,Miss.,Sinkkonen,60.0,1,Young Adult,19280.60055338419,1,Southampton,21,13.0,
+749,0,1,Marvin, Mr. Daniel Warner,male,19,1,0,113773,53.1,D30,S,Mr.,Marvin,19.0,2,Young Adult,2142.617298942128,0,Southampton,25,53.1,D
+750,0,3,Connaghton, Mr. Michael,male,31,0,0,335097,7.75,,Q,Mr.,Connaghton,93.0,1,Young Adult,43238.266789333175,1,Queenstown,23,7.75,
+751,1,2,Wells, Miss. Joan,female,4,1,1,29103,23.0,,S,Miss.,Wells,8.0,3,Child,1265.347275935967,0,Southampton,17,23.0,
+752,1,3,Moor, Master. Meier,male,6,0,1,392096,12.475,E121,S,Master.,Moor,18.0,2,Child,31430.515887362017,0,Southampton,19,12.475,E
+753,0,3,Vande Velde, Mr. Johannes Joseph,male,33,0,0,345780,9.5,,S,Mr.,Vande Velde,99.0,1,Young Adult,36397.85642330903,1,Southampton,32,9.5,
+754,0,3,Jonkoff, Mr. Lalio,male,23,0,0,349204,7.8958,,S,Mr.,Jonkoff,69.0,1,Young Adult,44226.49481180525,1,Southampton,18,7.8958,
+755,1,2,Herman, Mrs. Samuel (Jane Laver),female,48,1,2,220845,65.0,,S,Mrs.,Herman,96.0,4,Adult,3397.6148619054056,0,Southampton,32,65.0,
+756,1,2,Hamalainen, Master. Viljo,male,0.67,1,1,250649,14.5,,S,Master.,Hamalainen,1.34,3,Child,17286.12600956827,0,Southampton,25,14.5,
+757,0,3,Carlsson, Mr. August Sigfrid,male,28,0,0,350042,7.7958,,S,Mr.,Carlsson,84.0,1,Young Adult,44901.299544242356,1,Southampton,28,7.7958,
+758,0,2,Bailey, Mr. Percy Andrew,male,18,0,0,29108,11.5,,S,Mr.,Bailey,36.0,1,Young Adult,2531.1282338015358,1,Southampton,24,11.5,
+759,0,3,Theobald, Mr. Thomas Leonard,male,34,0,0,363294,8.05,,S,Mr.,Theobald,102.0,1,Young Adult,45129.633379337414,1,Southampton,28,8.05,
+760,1,1,Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards),female,33,0,0,110152,86.5,B77,S,the,Rothes,33.0,1,Young Adult,1273.433378793829,1,Southampton,56,86.5,B
+761,0,3,Garfirth, Mr. John,male,,0,0,358585,14.5,,S,Mr.,Garfirth,,1,,24729.98294483935,1,Southampton,18,14.5,
+762,0,3,Nirva, Mr. Iisakki Antino Aijo,male,41,0,0,SOTON/O2 3101272,7.125,,S,Mr.,Nirva,123.0,1,Adult,0.0,1,Southampton,30,7.125,
+763,1,3,Barah, Mr. Hanna Assi,male,20,0,0,2663,7.2292,,C,Mr.,Barah,60.0,1,Young Adult,368.3666680038345,1,Cherbourg,21,7.2292,
+764,1,1,Carter, Mrs. William Ernest (Lucile Polk),female,36,1,2,113760,120.0,B96 B98,S,Mrs.,Carter,36.0,4,Adult,947.9999210000066,0,Southampton,41,120.0,B
+765,0,3,Eklund, Mr. Hans Linus,male,16,0,0,347074,7.775,,S,Mr.,Eklund,48.0,1,Child,44639.68535088701,1,Southampton,22,7.775,
+766,1,1,Hogeboom, Mrs. John C (Anna Andrews),female,51,1,0,13502,77.9583,D11,S,Mrs.,Hogeboom,51.0,2,None,173.195134681601,0,Southampton,36,77.9583,D
+767,0,1,Brewe, Dr. Arthur Jackson,male,,0,0,112379,39.6,,C,Dr.,Brewe,,1,,2837.8528187240354,1,Cherbourg,25,39.6,
+768,0,3,Mangan, Miss. Mary,female,30.5,0,0,364850,7.75,,Q,Miss.,Mangan,91.5,1,Young Adult,47077.35860985986,1,Queenstown,18,7.75,
+769,0,3,Moran, Mr. Daniel J,male,,1,0,371110,24.15,,Q,Mr.,Moran,,2,,15366.867342912074,0,Queenstown,19,24.15,
+770,0,3,Gronnestad, Mr. Daniel Danielsen,male,32,0,0,8471,8.3625,,S,Mr.,Gronnestad,96.0,1,Young Adult,1012.9733776103108,1,Southampton,32,8.3625,
+771,0,3,Lievens, Mr. Rene Aime,male,24,0,0,345781,9.5,,S,Mr.,Lievens,72.0,1,Young Adult,36397.961686356124,1,Southampton,22,9.5,
+772,0,3,Jensen, Mr. Niels Peder,male,48,0,0,350047,7.8542,,S,Mr.,Jensen,144.0,1,Adult,44568.07240957398,1,Southampton,23,7.8542,
+773,0,2,Mack, Mrs. (Mary),female,57,0,0,S.O./P.P. 3,10.5,E77,S,Mrs.,Mack,114.0,1,None,0.0,1,Southampton,17,10.5,E
+774,0,3,Elias, Mr. Dibo,male,,0,0,2674,7.225,,C,Mr.,Elias,,1,,370.1032939746797,1,Cherbourg,15,7.225,
+775,1,2,Hocking, Mrs. Elizabeth (Eliza Needs),female,54,1,3,29105,23.0,,S,Mrs.,Hocking,108.0,5,None,1265.434232419899,0,Southampton,37,23.0,
+776,0,3,Myhrman, Mr. Pehr Fabian Oliver Malkolm,male,18,0,0,347078,7.75,,S,Mr.,Myhrman,54.0,1,Young Adult,44784.20027845126,1,Southampton,39,7.75,
+777,0,3,Tobin, Mr. Roger,male,,0,0,383121,7.75,F38,Q,Mr.,Tobin,,1,,49434.90395496264,1,Queenstown,16,7.75,F
+778,1,3,Emanuel, Miss. Virginia Ethel,female,5,0,0,364516,12.475,,S,Miss.,Emanuel,15.0,1,Child,29219.69601627574,1,Southampton,29,12.475,
+779,0,3,Kilgannon, Mr. Thomas J,male,,0,0,36865,7.7375,,Q,Mr.,Kilgannon,,1,,4764.452646910958,1,Queenstown,23,7.7375,
+780,1,1,Robert, Mrs. Edward Scott (Elisabeth Walton McMillan),female,43,0,1,24160,211.3375,B3,S,Mrs.,Robert,43.0,2,Adult,114.31950721857184,0,Southampton,53,211.3375,B
+781,1,3,Ayoub, Miss. Banoura,female,13,0,0,2687,7.2292,,C,Miss.,Ayoub,39.0,1,Child,371.686532830005,1,Cherbourg,20,7.2292,
+782,1,1,Dick, Mrs. Albert Adrian (Vera Gillespie),female,17,1,0,17474,57.0,B20,S,Mrs.,Dick,17.0,2,Child,306.56134972607896,0,Southampton,41,57.0,B
+783,0,1,Long, Mr. Milton Clyde,male,29,0,0,113501,30.0,D6,S,Mr.,Long,29.0,1,Young Adult,3783.3654055448646,1,Southampton,22,30.0,D
+784,0,3,Johnston, Mr. Andrew G,male,,1,2,W./C. 6607,23.45,,S,Mr.,Johnston,,4,,0.0,0,Southampton,22,23.45,
+785,0,3,Ali, Mr. William,male,25,0,0,SOTON/O.Q. 3101312,7.05,,S,Mr.,Ali,75.0,1,Young Adult,0.0,1,Southampton,16,7.05,
+786,0,3,Harmer, Mr. Abraham (David Lishin),male,25,0,0,374887,7.25,,S,Mr.,Harmer,75.0,1,Young Adult,51708.480402096,1,Southampton,34,7.25,
+787,1,3,Sjoblom, Miss. Anna Sofia,female,18,0,0,3101265,7.4958,,S,Miss.,Sjoblom,54.0,1,Young Adult,413733.1389136064,1,Southampton,25,7.4958,
+788,0,3,Rice, Master. George Hugh,male,8,4,1,382652,29.125,,Q,Master.,Rice,24.0,6,Child,13138.2615834295,0,Queenstown,25,29.125,
+789,1,3,Dean, Master. Bertram Vere,male,1,1,2,C.A. 2315,20.575,,S,Master.,Dean,3.0,4,Child,0.0,0,Southampton,26,20.575,
+790,0,1,Guggenheim, Mr. Benjamin,male,46,0,0,PC 17593,79.2,B82 B84,C,Mr.,Guggenheim,46.0,1,Adult,0.0,1,Cherbourg,24,79.2,B
+791,0,3,Keane, Mr. Andrew "Andy",male,,0,0,12460,7.75,,Q,Mr.,Keane,,1,,1607.7398609808247,1,Queenstown,24,7.75,
+792,0,2,Gaskell, Mr. Alfred,male,16,0,0,239865,26.0,,S,Mr.,Gaskell,32.0,1,Child,9225.573374779471,1,Southampton,19,26.0,
+793,0,3,Sage, Miss. Stella Anna,female,,8,2,CA. 2343,69.55,,S,Miss.,Sage,,11,,0.0,0,Southampton,23,69.55,
+794,0,1,Hoyt, Mr. William Fisher,male,,0,0,PC 17600,30.6958,,C,Mr.,Hoyt,,1,,0.0,1,Cherbourg,24,30.6958,
+795,0,3,Dantcheff, Mr. Ristiu,male,25,0,0,349203,7.8958,,S,Mr.,Dantcheff,75.0,1,Young Adult,44226.36816235446,1,Southampton,21,7.8958,
+796,0,2,Otter, Mr. Richard,male,39,0,0,28213,13.0,,S,Mr.,Otter,78.0,1,Adult,2170.2290998237695,1,Southampton,18,13.0,
+797,1,1,Leader, Dr. Alice (Farnham),female,49,0,0,17465,25.9292,D17,S,Dr.,Leader,49.0,1,Adult,673.5646785999264,1,Southampton,27,25.9292,D
+798,1,3,Osman, Mrs. Mara,female,31,0,0,349244,8.6833,,S,Mrs.,Osman,93.0,1,Young Adult,40220.14646488494,1,Southampton,16,8.6833,
+799,0,3,Ibrahim Shawah, Mr. Yousseff,male,30,0,0,2685,7.2292,,C,Mr.,Ibrahim Shawah,90.0,1,Young Adult,371.4098774278241,1,Cherbourg,28,7.2292,
+800,0,3,Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert),female,30,1,1,345773,24.15,,S,Mrs.,Van Impe,90.0,3,Young Adult,14317.716638626653,0,Southampton,52,24.15,
+801,0,2,Ponesell, Mr. Martin,male,34,0,0,250647,13.0,,S,Mr.,Ponesell,68.0,1,Young Adult,19280.52363036644,1,Southampton,20,13.0,
+802,1,2,Collyer, Mrs. Harvey (Charlotte Annie Tate),female,31,1,1,C.A. 31921,26.25,,S,Mrs.,Collyer,62.0,3,Young Adult,0.0,0,Southampton,43,26.25,
+803,1,1,Carter, Master. William Thornton II,male,11,1,2,113760,120.0,B96 B98,S,Master.,Carter,11.0,4,Child,947.9999210000066,0,Southampton,35,120.0,B
+804,1,3,Thomas, Master. Assad Alexander,male,0.42,0,1,2625,8.5167,,C,Master.,Thomas,1.26,2,Child,308.2176098516916,0,Cherbourg,31,8.5167,
+805,1,3,Hedman, Mr. Oskar Arvid,male,27,0,0,347089,6.975,,S,Mr.,Hedman,81.0,1,Young Adult,49761.79245621154,1,Southampton,23,6.975,
+806,0,3,Johansson, Mr. Karl Johan,male,31,0,0,347063,7.775,,S,Mr.,Johansson,93.0,1,Young Adult,44638.27056170989,1,Southampton,25,7.775,
+807,0,1,Andrews, Mr. Thomas Jr,male,39,0,0,112050,0.0,A36,S,Mr.,Andrews,39.0,1,Adult,11205000000.0,1,Southampton,22,0.0,A
+808,0,3,Pettersson, Miss. Ellen Natalia,female,18,0,0,347087,7.775,,S,Miss.,Pettersson,54.0,1,Young Adult,44641.35737445997,1,Southampton,31,7.775,
+809,0,2,Meyer, Mr. August,male,39,0,0,248723,13.0,,S,Mr.,Meyer,78.0,1,Adult,19132.523744212504,1,Southampton,17,13.0,
+810,1,1,Chambers, Mrs. Norman Campbell (Bertha Griggs),female,33,1,0,113806,53.1,E8,S,Mrs.,Chambers,33.0,2,Young Adult,2143.2387677516444,0,Southampton,46,53.1,E
+811,0,3,Alexander, Mr. William,male,26,0,0,3474,7.8875,,S,Mr.,Alexander,78.0,1,Young Adult,440.44318168851765,1,Southampton,22,7.8875,
+812,0,3,Lester, Mr. James,male,39,0,0,A/4 48871,24.15,,S,Mr.,Lester,117.0,1,Adult,0.0,1,Southampton,17,24.15,
+813,0,2,Slemen, Mr. Richard James,male,35,0,0,28206,10.5,,S,Mr.,Slemen,70.0,1,Adult,2686.283155920804,1,Southampton,25,10.5,
+814,0,3,Andersson, Miss. Ebba Iris Alfrida,female,6,4,2,347082,31.275,,S,Miss.,Andersson,18.0,7,Child,11097.742254918545,0,Southampton,34,31.275,
+815,0,3,Tomlin, Mr. Ernest Portage,male,30.5,0,0,364499,8.05,,S,Mr.,Tomlin,91.5,1,Young Adult,45279.32263438182,1,Southampton,26,8.05,
+816,0,1,Fry, Mr. Richard,male,,0,0,112058,0.0,B102,S,Mr.,Fry,,1,,11205800000.0,1,Southampton,16,0.0,B
+817,0,3,Heininen, Miss. Wendla Maria,female,23,0,0,STON/O2. 3101290,7.925,,S,Miss.,Heininen,69.0,1,Young Adult,0.0,1,Southampton,28,7.925,
+818,0,2,Mallet, Mr. Albert,male,31,1,1,S.C./PARIS 2079,37.0042,,C,Mr.,Mallet,62.0,3,Young Adult,0.0,0,Cherbourg,18,37.0042,
+819,0,3,Holm, Mr. John Fredrik Alexander,male,43,0,0,C 7075,6.45,,S,Mr.,Holm,129.0,1,Adult,0.0,1,Southampton,32,6.45,
+820,0,3,Skoog, Master. Karl Thorsten,male,10,3,2,347088,27.9,,S,Master.,Skoog,30.0,6,Child,12440.425648592958,0,Southampton,28,27.9,
+821,1,1,Hays, Mrs. Charles Melville (Clara Jennings Gregg),female,52,1,1,12749,93.5,B69,S,Mrs.,Hays,52.0,3,None,136.35292659326987,0,Southampton,50,93.5,B
+822,1,3,Lulic, Mr. Nikola,male,27,0,0,315098,8.6625,,S,Mr.,Lulic,81.0,1,Young Adult,36374.90750371428,1,Southampton,17,8.6625,
+823,0,1,Reuchlin, Jonkheer. John George,male,38,0,0,19972,0.0,,S,Jonkheer.,Reuchlin,38.0,1,Adult,1997199999.9999998,1,Southampton,31,0.0,
+824,1,3,Moor, Mrs. (Beila),female,27,0,1,392096,12.475,E121,S,Mrs.,Moor,81.0,2,Young Adult,31430.515887362017,0,Southampton,18,12.475,E
+825,0,3,Panula, Master. Urho Abraham,male,2,4,1,3101295,39.6875,,S,Master.,Panula,6.0,6,Child,78142.84645219616,0,Southampton,28,39.6875,
+826,0,3,Flynn, Mr. John,male,,0,0,368323,6.95,,Q,Mr.,Flynn,,1,,52996.038854620354,1,Queenstown,15,6.95,
+827,0,3,Lam, Mr. Len,male,,0,0,1601,56.4958,,S,Mr.,Lam,,1,,28.338384740390477,1,Southampton,12,56.4958,
+828,1,2,Mallet, Master. Andre,male,1,0,2,S.C./PARIS 2079,37.0042,,C,Master.,Mallet,2.0,3,Child,0.0,0,Cherbourg,21,37.0042,
+829,1,3,McCormack, Mr. Thomas Joseph,male,,0,0,367228,7.75,,Q,Mr.,McCormack,,1,,47384.19692361687,1,Queenstown,28,7.75,
+830,1,1,Stone, Mrs. George Nelson (Martha Evelyn),female,62,0,0,113572,80.0,B28,,Mrs.,Stone,62.0,1,None,1419.6498225437722,1,,41,80.0,B
+831,1,3,Yasbeck, Mrs. Antoni (Selini Alexander),female,15,1,0,2659,14.4542,,C,Mrs.,Yasbeck,45.0,2,Child,183.96024410880983,0,Cherbourg,39,14.4542,
+832,1,2,Richards, Master. George Sibley,male,0.83,1,1,29106,18.75,,S,Master.,Richards,1.66,3,Child,1552.3191720964417,0,Southampton,31,18.75,
+833,0,3,Saad, Mr. Amin,male,,0,0,2671,7.2292,,C,Mr.,Saad,,1,,369.473289612558,1,Cherbourg,14,7.2292,
+834,0,3,Augustsson, Mr. Albert,male,23,0,0,347468,7.8542,,S,Mr.,Augustsson,69.0,1,Young Adult,44239.71347850389,1,Southampton,22,7.8542,
+835,0,3,Allum, Mr. Owen George,male,18,0,0,2223,8.3,,S,Mr.,Allum,54.0,1,Young Adult,267.83100261324984,1,Southampton,22,8.3,
+836,1,1,Compton, Miss. Sara Rebecca,female,39,1,1,PC 17756,83.1583,E49,C,Miss.,Compton,39.0,3,Adult,0.0,0,Cherbourg,27,83.1583,E
+837,0,3,Pasic, Mr. Jakob,male,21,0,0,315097,8.6625,,S,Mr.,Pasic,63.0,1,Young Adult,36374.79206373211,1,Southampton,16,8.6625,
+838,0,3,Sirota, Mr. Maurice,male,,0,0,392092,8.05,,S,Mr.,Sirota,,1,,48707.02023972641,1,Southampton,19,8.05,
+839,1,3,Chip, Mr. Chang,male,32,0,0,1601,56.4958,,S,Mr.,Chip,96.0,1,Young Adult,28.338384740390477,1,Southampton,15,56.4958,
+840,1,1,Marechal, Mr. Pierre,male,,0,0,11774,29.7,C47,C,Mr.,Marechal,,1,,396.43084295257813,1,Cherbourg,20,29.7,C
+841,0,3,Alhomaki, Mr. Ilmari Rudolf,male,20,0,0,SOTON/O2 3101287,7.925,,S,Mr.,Alhomaki,60.0,1,Young Adult,0.0,1,Southampton,27,7.925,
+842,0,2,Mudd, Mr. Thomas Charles,male,16,0,0,S.O./P.P. 3,10.5,,S,Mr.,Mudd,32.0,1,Child,0.0,1,Southampton,24,10.5,
+843,1,1,Serepeca, Miss. Augusta,female,30,0,0,113798,31.0,,C,Miss.,Serepeca,30.0,1,Young Adult,3670.902041644503,1,Cherbourg,23,31.0,
+844,0,3,Lemberopolous, Mr. Peter L,male,34.5,0,0,2683,6.4375,,C,Mr.,Lemberopolous,103.5,1,Young Adult,416.77605161001696,1,Cherbourg,26,6.4375,
+845,0,3,Culumovic, Mr. Jeso,male,17,0,0,315090,8.6625,,S,Mr.,Culumovic,51.0,1,Child,36373.98398385687,1,Southampton,19,8.6625,
+846,0,3,Abbing, Mr. Anthony,male,42,0,0,C.A. 5547,7.55,,S,Mr.,Abbing,126.0,1,Adult,0.0,1,Southampton,19,7.55,
+847,0,3,Sage, Mr. Douglas Bullen,male,,8,2,CA. 2343,69.55,,S,Mr.,Sage,,11,,0.0,0,Southampton,24,69.55,
+848,0,3,Markoff, Mr. Marin,male,35,0,0,349213,7.8958,,C,Mr.,Markoff,105.0,1,Adult,44227.63465686231,1,Cherbourg,18,7.8958,
+849,0,2,Harper, Rev. John,male,28,0,1,248727,33.0,,S,Rev.,Harper,56.0,2,Young Adult,7537.179534188019,0,Southampton,17,33.0,
+850,1,1,Goldenberg, Mrs. Samuel L (Edwiga Grabowska),female,,1,0,17453,89.1042,C92,C,Mrs.,Goldenberg,,2,,195.87177755125148,0,Cherbourg,44,89.1042,C
+851,0,3,Andersson, Master. Sigvard Harald Elias,male,4,4,2,347082,31.275,,S,Master.,Andersson,12.0,7,Child,11097.742254918545,0,Southampton,39,31.275,
+852,0,3,Svensson, Mr. Johan,male,74,0,0,347060,7.775,,S,Mr.,Svensson,222.0,1,None,44637.88471011613,1,Southampton,19,7.775,
+853,0,3,Boulos, Miss. Nourelain,female,9,1,1,2678,15.2458,,C,Miss.,Boulos,27.0,3,Child,175.6548192585373,0,Cherbourg,23,15.2458,
+854,1,1,Lines, Miss. Mary Conover,female,16,0,1,PC 17592,39.4,D28,S,Miss.,Lines,16.0,2,Child,0.0,0,Southampton,25,39.4,D
+855,0,2,Carter, Mrs. Ernest Courtenay (Lilian Hughes),female,44,1,0,244252,26.0,,S,Mrs.,Carter,88.0,2,Adult,9394.304079113816,0,Southampton,45,26.0,
+856,1,3,Aks, Mrs. Sam (Leah Rosen),female,18,0,1,392091,9.35,,S,Mrs.,Aks,54.0,2,Young Adult,41934.821460084,0,Southampton,26,9.35,
+857,1,1,Wick, Mrs. George Dennick (Mary Hitchcock),female,45,1,1,36928,164.8667,,S,Mrs.,Wick,45.0,3,Adult,223.9870013782649,0,Southampton,42,164.8667,
+858,1,1,Daly, Mr. Peter Denis ,male,51,0,0,113055,26.55,E17,S,Mr.,Daly,51.0,1,None,4258.190486557255,1,Southampton,22,26.55,E
+859,1,3,Baclini, Mrs. Solomon (Latifa Qurban),female,24,0,3,2666,19.2583,,C,Mrs.,Baclini,72.0,4,Young Adult,138.4337462633014,0,Cherbourg,37,19.2583,
+860,0,3,Razi, Mr. Raihed,male,,0,0,2629,7.2292,,C,Mr.,Razi,,1,,363.6635261667596,1,Cherbourg,16,7.2292,
+861,0,3,Hansen, Mr. Claus Peter,male,41,2,0,350026,14.1083,,S,Mr.,Hansen,123.0,3,Adult,24809.91699218404,0,Southampton,23,14.1083,
+862,0,2,Giles, Mr. Frederick Edward,male,21,1,0,28134,11.5,,S,Mr.,Giles,42.0,2,Young Adult,2446.432655275952,0,Southampton,27,11.5,
+863,1,1,Swift, Mrs. Frederick Joel (Margaret Welles Barron),female,48,0,0,17466,25.9292,D17,S,Mrs.,Swift,48.0,1,Adult,673.6032451432187,1,Southampton,51,25.9292,D
+864,0,3,Sage, Miss. Dorothy Edith "Dolly",female,,8,2,CA. 2343,69.55,,S,Miss.,Sage,,11,,0.0,0,Southampton,33,69.55,
+865,0,2,Gill, Mr. John William,male,24,0,0,233866,13.0,,S,Mr.,Gill,48.0,1,Young Adult,17989.6784694781,1,Southampton,22,13.0,
+866,1,2,Bystrom, Mrs. (Karolina),female,42,0,0,236852,13.0,,S,Mrs.,Bystrom,84.0,1,Adult,18219.370600484155,1,Southampton,24,13.0,
+867,1,2,Duran y More, Miss. Asuncion,female,27,1,0,SC/PARIS 2149,13.8583,,C,Miss.,Duran y More,54.0,2,Young Adult,0.0,0,Cherbourg,28,13.8583,
+868,0,1,Roebling, Mr. Washington Augustus II,male,31,0,0,PC 17590,50.4958,A24,S,Mr.,Roebling,31.0,1,Young Adult,0.0,1,Southampton,36,50.4958,A
+869,0,3,van Melkebeke, Mr. Philemon,male,,0,0,345777,9.5,,S,Mr.,van Melkebeke,,1,,36397.54063416775,1,Southampton,27,9.5,
+870,1,3,Johnson, Master. Harold Theodor,male,4,1,1,347742,11.1333,,S,Master.,Johnson,12.0,3,Child,31234.376838514334,0,Southampton,31,11.1333,
+871,0,3,Balkic, Mr. Cerin,male,26,0,0,349248,7.8958,,S,Mr.,Balkic,78.0,1,Young Adult,44232.06738763977,1,Southampton,17,7.8958,
+872,1,1,Beckwith, Mrs. Richard Leonard (Sallie Monypeny),female,47,1,1,11751,52.5542,D35,S,Mrs.,Beckwith,47.0,3,Adult,223.59769084151392,0,Southampton,48,52.5542,D
+873,0,1,Carlsson, Mr. Frans Olof,male,33,0,0,695,5.0,B51 B53 B55,S,Mr.,Carlsson,33.0,1,Young Adult,138.999722000556,1,Southampton,24,5.0,B
+874,0,3,Vander Cruyssen, Mr. Victor,male,47,0,0,345765,9.0,,S,Mr.,Vander Cruyssen,141.0,1,Adult,38418.290646343725,1,Southampton,27,9.0,
+875,1,2,Abelson, Mrs. Samuel (Hannah Wizosky),female,28,1,0,P/PP 3381,24.0,,C,Mrs.,Abelson,56.0,2,Young Adult,0.0,0,Cherbourg,37,24.0,
+876,1,3,Najib, Miss. Adele Kiamie "Jane",female,15,0,0,2667,7.225,,C,Miss.,Najib,45.0,1,Child,369.13443718417,1,Cherbourg,32,7.225,
+877,0,3,Gustafsson, Mr. Alfred Ossian,male,20,0,0,7534,9.8458,,S,Mr.,Gustafsson,60.0,1,Young Adult,765.1985971697605,1,Southampton,29,9.8458,
+878,0,3,Petroff, Mr. Nedelio,male,19,0,0,349212,7.8958,,S,Mr.,Petroff,57.0,1,Young Adult,44227.508007411525,1,Southampton,20,7.8958,
+879,0,3,Laleff, Mr. Kristo,male,,0,0,349217,7.8958,,S,Mr.,Laleff,,1,,44228.14125466545,1,Southampton,18,7.8958,
+880,1,1,Potter, Mrs. Thomas Jr (Lily Alexenia Wilson),female,56,0,1,11767,83.1583,C50,C,Mrs.,Potter,56.0,2,None,141.50119212379377,0,Cherbourg,45,83.1583,C
+881,1,2,Shelley, Mrs. William (Imanita Parrish Hall),female,25,0,1,230433,26.0,,S,Mrs.,Shelley,50.0,2,Young Adult,8862.804283536814,0,Southampton,44,26.0,
+882,0,3,Markun, Mr. Johann,male,33,0,0,349257,7.8958,,S,Mr.,Markun,99.0,1,Young Adult,44233.207232696834,1,Southampton,18,7.8958,
+883,0,3,Dahlberg, Miss. Gerda Ulrika,female,22,0,0,7552,10.5167,,S,Miss.,Dahlberg,66.0,1,Young Adult,718.0952978640659,1,Southampton,28,10.5167,
+884,0,2,Banfield, Mr. Frederick James,male,28,0,0,C.A./SOTON 34068,10.5,,S,Mr.,Banfield,56.0,1,Young Adult,0.0,1,Southampton,29,10.5,
+885,0,3,Sutehall, Mr. Henry Jr,male,25,0,0,SOTON/OQ 392076,7.05,,S,Mr.,Sutehall,75.0,1,Young Adult,0.0,1,Southampton,22,7.05,
+886,0,3,Rice, Mrs. William (Margaret Norton),female,39,0,5,382652,29.125,,Q,Mrs.,Rice,117.0,6,Adult,13138.2615834295,0,Queenstown,36,29.125,
+887,0,2,Montvila, Rev. Juozas,male,27,0,0,211536,13.0,,S,Rev.,Montvila,54.0,1,Young Adult,16271.987483086552,1,Southampton,21,13.0,
+888,1,1,Graham, Miss. Margaret Edith,female,19,0,0,112053,30.0,B42,S,Miss.,Graham,19.0,1,Young Adult,3735.0987549670817,1,Southampton,28,30.0,B
+889,0,3,Johnston, Miss. Catherine Helen "Carrie",female,,1,2,W./C. 6607,23.45,,S,Miss.,Johnston,,4,,0.0,0,Southampton,40,23.45,
+890,1,1,Behr, Mr. Karl Howell,male,26,0,0,111369,30.0,C148,C,Mr.,Behr,26.0,1,Young Adult,3712.2987625670794,1,Cherbourg,21,30.0,C
+891,0,3,Dooley, Mr. Patrick,male,32,0,0,370376,7.75,,Q,Mr.,Dooley,96.0,1,Young Adult,47790.38994788394,1,Queenstown,19,7.75,
