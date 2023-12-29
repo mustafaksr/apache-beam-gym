@@ -1,4 +1,0 @@
-apache-beam[interactive]
-apache-beam
-numpy
-PyHamcrest
